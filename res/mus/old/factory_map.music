@@ -1,0 +1,5 @@
+(supertux-music
+  (file "factory_map.ogg")
+  (loop-begin 10.000)
+  (loop-at    20.000)
+)

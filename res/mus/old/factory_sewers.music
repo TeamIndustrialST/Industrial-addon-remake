@@ -1,0 +1,5 @@
+(supertux-music
+  (file "factory_sewers.ogg")
+  (loop-begin 14.400)
+  (loop-at    102.400)
+)

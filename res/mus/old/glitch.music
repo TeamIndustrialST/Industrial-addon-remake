@@ -1,0 +1,5 @@
+(supertux-music
+  (file "glitch.ogg")
+  (loop-begin 3.000)
+  (loop-at    103.000)
+)

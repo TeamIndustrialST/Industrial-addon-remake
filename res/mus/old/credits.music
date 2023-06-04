@@ -1,0 +1,5 @@
+(supertux-music
+  (file "credits.ogg")
+  (loop-begin 32.000)
+  (loop-at    146.666)
+)

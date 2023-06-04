@@ -1,0 +1,5 @@
+(supertux-music
+  (file "rainforest.ogg")
+  (loop-begin 5.333)
+  (loop-at    256.000)
+)

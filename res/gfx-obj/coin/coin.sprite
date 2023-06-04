@@ -1,0 +1,13 @@
+(supertux-sprite
+      (action 
+         (fps 15)
+          (name "normal")
+          (images "coin1.png"
+                  "coin2.png"
+                  "coin3.png"
+                  "coin2.png"
+                  ))
+      (action
+          (name "still")
+          (images "coin1.png"))
+)

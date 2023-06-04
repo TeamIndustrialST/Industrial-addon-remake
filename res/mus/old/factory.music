@@ -1,0 +1,5 @@
+(supertux-music
+  (file "factory.ogg")
+  (loop-begin 16.941)
+  (loop-at    130.352)
+)
