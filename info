@@ -1,0 +1,7 @@
+(supertux-level-subset
+  (title (_ "Industrial - remaster"))
+  (description (_ "Remake of \"Industrial island\""))
+  (levelset #t)
+  (contrib-type "user")
+  (hide-from-contribs #f)
+)
