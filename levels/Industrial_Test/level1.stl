@@ -7,7 +7,7 @@
   (icon-locked "")
   (sector
     (name "main")
-    (init-script "import(\"scripts/switch_blocks.nut\")")
+    (init-script "import(\"/res/industrial/scripts/switch_blocks.nut\")")
     (ambient-light
       (color 1 1 1)
     )
