@@ -25,7 +25,7 @@
       (z-pos -301)
     )
     (music
-      (file "/levels/Industrial_remaster/res/mus/old/factory_sewers.music")
+      (file "/res/industrial/mus/old/factory_sewers.music")
     )
     (spawnpoint
       (name "main")
@@ -163,7 +163,7 @@
     )
     (toad
       (direction "left")
-      (sprite "/levels/Industrial_remaster/res/gfx-enemy/beip_bob/beip.sprite")
+      (sprite "/res/industrial/gfx-enemy/beip_bob/beip.sprite")
       (x 580)
       (y 460)
     )
