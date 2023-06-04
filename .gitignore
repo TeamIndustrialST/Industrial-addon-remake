@@ -3,3 +3,6 @@ config
 
 # Do not upload profile files. (add yours here lol)
 profile4
+
+# Do not upload the version info.
+ver_info.nfo
