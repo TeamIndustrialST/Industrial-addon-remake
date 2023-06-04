@@ -1,2 +1,5 @@
 # Do not upload config files.
 config
+
+# Do not upload profile files. (add yours here lol)
+profile4
