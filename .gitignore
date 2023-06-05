@@ -2,7 +2,17 @@
 config
 
 # Do not upload profile files. (add yours here lol)
+profile1
+profile2
+profile3
 profile4
+profile5
+profile6
+profile7
+profile8
+profile9
+profile10
+
 
 # Do not upload the version info.
 ver_info.nfo
