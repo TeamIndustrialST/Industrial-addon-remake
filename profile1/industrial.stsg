@@ -1,0 +1,40 @@
+(supertux-savegame
+  (version 1)
+  (tux
+    (num_players 1)
+    (bonus "none")
+    (fireflowers 0)
+    (iceflowers 0)
+    (airflowers 0)
+    (earthflowers 0)
+    (coins 100)
+    (worldmap-sprite "images/worldmap/common/tux.sprite")
+    (last-worldmap "")
+  )
+  (state
+    ("levelsets"
+      ("levels/industrial"
+        ("levels"
+          ("forest-2.stl"
+            (solved #f)
+          )
+          ("forest-1.stl"
+            (solved #f)
+          )
+          ("forest-1.stl~"
+            (solved #f)
+          )
+          ("test.stl"
+            (solved #f)
+          )
+          ("FlamingMysteriesRevamp.stl"
+            (solved #f)
+          )
+          ("forest-3.stl"
+            (solved #f)
+          )
+        )
+      )
+    )
+  )
+)

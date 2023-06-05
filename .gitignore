@@ -7,5 +7,10 @@ profile4
 # Do not upload the version info.
 ver_info.nfo
 
+# Do not upload the error logs.
+console.err
+console.out
+
+
 # Do not upload .stl~ files at all.
 **/*.stl~
