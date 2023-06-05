@@ -278,5 +278,5 @@
       )
     )
   )
-  (tileset "/res/gfx-tiles/tiles.strf")
+  (tileset "/res/industrial/gfx-tiles/tiles.strf")
 )
