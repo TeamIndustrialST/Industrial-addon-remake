@@ -27,10 +27,10 @@
           ("test.stl"
             (solved #f)
           )
-          ("FlamingMysteriesRevamp.stl"
+          ("forest-3.stl"
             (solved #f)
           )
-          ("forest-3.stl"
+          ("FlamingMysteriesRevamp.stl"
             (solved #f)
           )
         )
