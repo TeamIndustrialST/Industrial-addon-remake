@@ -115,7 +115,7 @@
 ;----------------------RETRO COMPATIBILITY (Semphris reference)----------------------
 
 	(tilegroup
-    (name (_ ""))
+    (name (_ "----------------------"))
     (tiles
       0 0 0 0
 	  )
@@ -1474,22 +1474,22 @@
   (tile
     (id 3162)
     (images
-      "objects/bonus_block/full-0.png"
-      "objects/bonus_block/full-1.png"
-      "objects/bonus_block/full-2.png"
-      "objects/bonus_block/full-3.png"
-      "objects/bonus_block/full-4.png"
-      "objects/bonus_block/full-3.png"
-      "objects/bonus_block/full-2.png"
-      "objects/bonus_block/full-1.png"
-      "objects/bonus_block/full-0.png"
-      "objects/bonus_block/full-0.png"
-      "objects/bonus_block/full-0.png"
+      "../../../images/objects/bonus_block/full-0.png"
+      "../../../images/objects/bonus_block/full-1.png"
+      "../../../images/objects/bonus_block/full-2.png"
+      "../../../images/objects/bonus_block/full-3.png"
+      "../../../images/objects/bonus_block/full-4.png"
+      "../../../images/objects/bonus_block/full-3.png"
+      "../../../images/objects/bonus_block/full-2.png"
+      "../../../images/objects/bonus_block/full-1.png"
+      "../../../images/objects/bonus_block/full-0.png"
+      "../../../images/objects/bonus_block/full-0.png"
+      "../../../images/objects/bonus_block/full-0.png"
     )
     (solid #t)
     (object-name "bonusblock")
     (object-data "(sprite \"images/objects/bonus_block/bonusblock.sprite\") (data 14)")
-    (editor-images "objects/bonus_block/bonus-earth_flower.png")
+    (editor-images "../../../images/objects/bonus_block/bonus-earth_flower.png")
     (data 14)
     (fps 15)
   )
@@ -1497,22 +1497,22 @@
   (tile
     (id 3161)
     (images
-      "objects/bonus_block/full-0.png"
-      "objects/bonus_block/full-1.png"
-      "objects/bonus_block/full-2.png"
-      "objects/bonus_block/full-3.png"
-      "objects/bonus_block/full-4.png"
-      "objects/bonus_block/full-3.png"
-      "objects/bonus_block/full-2.png"
-      "objects/bonus_block/full-1.png"
-      "objects/bonus_block/full-0.png"
-      "objects/bonus_block/full-0.png"
-      "objects/bonus_block/full-0.png"
+      "../../../images/objects/bonus_block/full-0.png"
+      "../../../images/objects/bonus_block/full-1.png"
+      "../../../images/objects/bonus_block/full-2.png"
+      "../../../images/objects/bonus_block/full-3.png"
+      "../../../images/objects/bonus_block/full-4.png"
+      "../../../images/objects/bonus_block/full-3.png"
+      "../../../images/objects/bonus_block/full-2.png"
+      "../../../images/objects/bonus_block/full-1.png"
+      "../../../images/objects/bonus_block/full-0.png"
+      "../../../images/objects/bonus_block/full-0.png"
+      "../../../images/objects/bonus_block/full-0.png"
     )
     (solid #t)
     (object-name "bonusblock")
     (object-data "(sprite \"images/objects/bonus_block/bonusblock.sprite\") (data 13)")
-    (editor-images "objects/bonus_block/bonus-air_flower.png")
+    (editor-images "../../../images/objects/bonus_block/bonus-air_flower.png")
     (data 13)
     (fps 15)
   )
@@ -1520,22 +1520,22 @@
   (tile
     (id 3037)
     (images
-      "objects/bonus_block/full-0.png"
-      "objects/bonus_block/full-1.png"
-      "objects/bonus_block/full-2.png"
-      "objects/bonus_block/full-3.png"
-      "objects/bonus_block/full-4.png"
-      "objects/bonus_block/full-3.png"
-      "objects/bonus_block/full-2.png"
-      "objects/bonus_block/full-1.png"
-      "objects/bonus_block/full-0.png"
-      "objects/bonus_block/full-0.png"
-      "objects/bonus_block/full-0.png"
+      "../../../images/objects/bonus_block/full-0.png"
+      "../../../images/objects/bonus_block/full-1.png"
+      "../../../images/objects/bonus_block/full-2.png"
+      "../../../images/objects/bonus_block/full-3.png"
+      "../../../images/objects/bonus_block/full-4.png"
+      "../../../images/objects/bonus_block/full-3.png"
+      "../../../images/objects/bonus_block/full-2.png"
+      "../../../images/objects/bonus_block/full-1.png"
+      "../../../images/objects/bonus_block/full-0.png"
+      "../../../images/objects/bonus_block/full-0.png"
+      "../../../images/objects/bonus_block/full-0.png"
     )
     (solid #t)
     (object-name "bonusblock")
     (object-data "(sprite \"images/objects/bonus_block/bonusblock.sprite\") (data 12)")
-    (editor-images "objects/bonus_block/bonus-levelflip.png")
+    (editor-images "../../../images/objects/bonus_block/bonus-levelflip.png")
     (data 12)
     (fps 15)
   )
@@ -1543,22 +1543,22 @@
   (tile
     (id 2948)
     (images
-      "objects/bonus_block/full-0.png"
-      "objects/bonus_block/full-1.png"
-      "objects/bonus_block/full-2.png"
-      "objects/bonus_block/full-3.png"
-      "objects/bonus_block/full-4.png"
-      "objects/bonus_block/full-3.png"
-      "objects/bonus_block/full-2.png"
-      "objects/bonus_block/full-1.png"
-      "objects/bonus_block/full-0.png"
-      "objects/bonus_block/full-0.png"
-      "objects/bonus_block/full-0.png"
+      "../../../images/objects/bonus_block/full-0.png"
+      "../../../images/objects/bonus_block/full-1.png"
+      "../../../images/objects/bonus_block/full-2.png"
+      "../../../images/objects/bonus_block/full-3.png"
+      "../../../images/objects/bonus_block/full-4.png"
+      "../../../images/objects/bonus_block/full-3.png"
+      "../../../images/objects/bonus_block/full-2.png"
+      "../../../images/objects/bonus_block/full-1.png"
+      "../../../images/objects/bonus_block/full-0.png"
+      "../../../images/objects/bonus_block/full-0.png"
+      "../../../images/objects/bonus_block/full-0.png"
     )
     (solid #t)
     (object-name "bonusblock")
     (object-data "(sprite \"images/objects/bonus_block/bonusblock.sprite\") (data 11)")
-    (editor-images "objects/bonus_block/bonus-explode.png")
+    (editor-images "../../../images/objects/bonus_block/bonus-explode.png")
     (data 11)
     (fps 15)
   )
@@ -1566,22 +1566,22 @@
   (tile
     (id 2947)
     (images
-      "objects/bonus_block/full-0.png"
-      "objects/bonus_block/full-1.png"
-      "objects/bonus_block/full-2.png"
-      "objects/bonus_block/full-3.png"
-      "objects/bonus_block/full-4.png"
-      "objects/bonus_block/full-3.png"
-      "objects/bonus_block/full-2.png"
-      "objects/bonus_block/full-1.png"
-      "objects/bonus_block/full-0.png"
-      "objects/bonus_block/full-0.png"
-      "objects/bonus_block/full-0.png"
+      "../../../images/objects/bonus_block/full-0.png"
+      "../../../images/objects/bonus_block/full-1.png"
+      "../../../images/objects/bonus_block/full-2.png"
+      "../../../images/objects/bonus_block/full-3.png"
+      "../../../images/objects/bonus_block/full-4.png"
+      "../../../images/objects/bonus_block/full-3.png"
+      "../../../images/objects/bonus_block/full-2.png"
+      "../../../images/objects/bonus_block/full-1.png"
+      "../../../images/objects/bonus_block/full-0.png"
+      "../../../images/objects/bonus_block/full-0.png"
+      "../../../images/objects/bonus_block/full-0.png"
     )
     (solid #t)
     (object-name "bonusblock")
     (object-data "(sprite \"images/objects/bonus_block/bonusblock.sprite\") (data 10)")
-    (editor-images "objects/bonus_block/bonus-rain.png")
+    (editor-images "../../../images/objects/bonus_block/bonus-rain.png")
     (data 10)
     (fps 15)
   )
@@ -1589,22 +1589,22 @@
   (tile
     (id 2946)
     (images
-      "objects/bonus_block/full-0.png"
-      "objects/bonus_block/full-1.png"
-      "objects/bonus_block/full-2.png"
-      "objects/bonus_block/full-3.png"
-      "objects/bonus_block/full-4.png"
-      "objects/bonus_block/full-3.png"
-      "objects/bonus_block/full-2.png"
-      "objects/bonus_block/full-1.png"
-      "objects/bonus_block/full-0.png"
-      "objects/bonus_block/full-0.png"
-      "objects/bonus_block/full-0.png"
+      "../../../images/objects/bonus_block/full-0.png"
+      "../../../images/objects/bonus_block/full-1.png"
+      "../../../images/objects/bonus_block/full-2.png"
+      "../../../images/objects/bonus_block/full-3.png"
+      "../../../images/objects/bonus_block/full-4.png"
+      "../../../images/objects/bonus_block/full-3.png"
+      "../../../images/objects/bonus_block/full-2.png"
+      "../../../images/objects/bonus_block/full-1.png"
+      "../../../images/objects/bonus_block/full-0.png"
+      "../../../images/objects/bonus_block/full-0.png"
+      "../../../images/objects/bonus_block/full-0.png"
     )
     (solid #t)
     (object-name "bonusblock")
     (object-data "(sprite \"images/objects/bonus_block/bonusblock.sprite\") (data 9)")
-    (editor-images "objects/bonus_block/bonus-rock.png")
+    (editor-images "../../../images/objects/bonus_block/bonus-rock.png")
     (data 9)
     (fps 15)
   )
@@ -1612,22 +1612,22 @@
   (tile
     (id 2945)
     (images
-      "objects/bonus_block/full-0.png"
-      "objects/bonus_block/full-1.png"
-      "objects/bonus_block/full-2.png"
-      "objects/bonus_block/full-3.png"
-      "objects/bonus_block/full-4.png"
-      "objects/bonus_block/full-3.png"
-      "objects/bonus_block/full-2.png"
-      "objects/bonus_block/full-1.png"
-      "objects/bonus_block/full-0.png"
-      "objects/bonus_block/full-0.png"
-      "objects/bonus_block/full-0.png"
+      "../../../images/objects/bonus_block/full-0.png"
+      "../../../images/objects/bonus_block/full-1.png"
+      "../../../images/objects/bonus_block/full-2.png"
+      "../../../images/objects/bonus_block/full-3.png"
+      "../../../images/objects/bonus_block/full-4.png"
+      "../../../images/objects/bonus_block/full-3.png"
+      "../../../images/objects/bonus_block/full-2.png"
+      "../../../images/objects/bonus_block/full-1.png"
+      "../../../images/objects/bonus_block/full-0.png"
+      "../../../images/objects/bonus_block/full-0.png"
+      "../../../images/objects/bonus_block/full-0.png"
     )
     (solid #t)
     (object-name "bonusblock")
     (object-data "(sprite \"images/objects/bonus_block/bonusblock.sprite\") (data 8)")
-    (editor-images "objects/bonus_block/bonus-porttramp.png")
+    (editor-images "../../../images/objects/bonus_block/bonus-porttramp.png")
     (data 8)
     (fps 15)
   )
@@ -1635,22 +1635,22 @@
   (tile
     (id 2944)
     (images
-      "objects/bonus_block/full-0.png"
-      "objects/bonus_block/full-1.png"
-      "objects/bonus_block/full-2.png"
-      "objects/bonus_block/full-3.png"
-      "objects/bonus_block/full-4.png"
-      "objects/bonus_block/full-3.png"
-      "objects/bonus_block/full-2.png"
-      "objects/bonus_block/full-1.png"
-      "objects/bonus_block/full-0.png"
-      "objects/bonus_block/full-0.png"
-      "objects/bonus_block/full-0.png"
+      "../../../images/objects/bonus_block/full-0.png"
+      "../../../images/objects/bonus_block/full-1.png"
+      "../../../images/objects/bonus_block/full-2.png"
+      "../../../images/objects/bonus_block/full-3.png"
+      "../../../images/objects/bonus_block/full-4.png"
+      "../../../images/objects/bonus_block/full-3.png"
+      "../../../images/objects/bonus_block/full-2.png"
+      "../../../images/objects/bonus_block/full-1.png"
+      "../../../images/objects/bonus_block/full-0.png"
+      "../../../images/objects/bonus_block/full-0.png"
+      "../../../images/objects/bonus_block/full-0.png"
     )
     (solid #t)
     (object-name "bonusblock")
     (object-data "(sprite \"images/objects/bonus_block/bonusblock.sprite\") (data 7)")
-    (editor-images "objects/bonus_block/bonus-tramp.png")
+    (editor-images "../../../images/objects/bonus_block/bonus-tramp.png")
     (data 7)
     (fps 15)
   )
@@ -1658,19 +1658,19 @@
   (tile
     (id 2943)
     (images
-      "objects/bonus_block/lightblock_off.png"
+      "../../../images/objects/bonus_block/lightblock_off.png"
     )
     (solid #t)
     (object-name "bonusblock")
     (object-data "(sprite \"images/objects/bonus_block/bonusblock.sprite\") (data 6)")
-    (editor-images "objects/bonus_block/lightblock_off.png")
+    (editor-images "../../../images/objects/bonus_block/lightblock_off.png")
     (data 6)
   )
   
   (tile
     (id 1)
     (images
-      "tiles/auxiliary/notile.png"
+      "../../../images/tiles/auxiliary/notile.png"
     )
     (solid #t)
   )
@@ -1844,22 +1844,22 @@
   (tile
     (id 44)
     (images
-      "objects/coin/coin-0.png"
-      "objects/coin/coin-1.png"
-      "objects/coin/coin-2.png"
-      "objects/coin/coin-3.png"
-      "objects/coin/coin-4.png"
-      "objects/coin/coin-5.png"
-      "objects/coin/coin-6.png"
-      "objects/coin/coin-7.png"
-	  "objects/coin/coin-8.png"
-	  "objects/coin/coin-9.png"
-	  "objects/coin/coin-10.png"
-	  "objects/coin/coin-11.png"
-	  "objects/coin/coin-12.png"
-	  "objects/coin/coin-13.png"
-	  "objects/coin/coin-14.png"
-	  "objects/coin/coin-15.png"
+      "../../../images/objects/coin/coin-0.png"
+      "../../../images/objects/coin/coin-1.png"
+      "../../../images/objects/coin/coin-2.png"
+      "../../../images/objects/coin/coin-3.png"
+      "../../../images/objects/coin/coin-4.png"
+      "../../../images/objects/coin/coin-5.png"
+      "../../../images/objects/coin/coin-6.png"
+      "../../../images/objects/coin/coin-7.png"
+	  "../../../images/objects/coin/coin-8.png"
+	  "../../../images/objects/coin/coin-9.png"
+	  "../../../images/objects/coin/coin-10.png"
+	  "../../../images/objects/coin/coin-11.png"
+	  "../../../images/objects/coin/coin-12.png"
+	  "../../../images/objects/coin/coin-13.png"
+	  "../../../images/objects/coin/coin-14.png"
+	  "../../../images/objects/coin/coin-15.png"
     )
     (object-name "coin")
     (fps 15)
@@ -1867,14 +1867,14 @@
   (tile
     (id 47)
     (images
-      "tiles/blocks/block4.png"
+      "../../../images/tiles/blocks/block4.png"
     )
     (solid #t)
   )
   (tile
     (id 48)
     (images
-      "tiles/blocks/block5.png"
+      "../../../images/tiles/blocks/block5.png"
     )
     (solid #t)
   )
@@ -1933,14 +1933,14 @@
   (tile
     (id 61)
     (images
-      "tiles/blocks/block10.png"
+      "../../../images/tiles/blocks/block10.png"
     )
     (solid #t)
   )
   (tile
     (id 62)
     (images
-      "tiles/blocks/block11.png"
+      "../../../images/tiles/blocks/block11.png"
     )
     (solid #t)
   )
@@ -1973,7 +1973,7 @@
   (tile
     (id 77)
     (images
-      "tiles/blocks/brick0.png"
+      "../../../images/tiles/blocks/brick0.png"
     )
     (solid #t)
     (object-name "brick")
@@ -1982,7 +1982,7 @@
   (tile
     (id 78)
     (images
-      "tiles/blocks/brick1.png"
+      "../../../images/tiles/blocks/brick1.png"
     )
     (solid #t)
      (object-name "brick")
@@ -1991,7 +1991,7 @@
   (tile
     (id 3159)
     (images
-      "tiles/blocks/brick2.png"
+      "../../../images/tiles/blocks/brick2.png"
     )
     (solid #t)
     (object-name "brick")
@@ -2000,7 +2000,7 @@
   (tile
     (id 4434)
     (images
-      "tiles/blocks/brick3.png"
+      "../../../images/tiles/blocks/brick3.png"
     )
     (solid #t)
     (object-name "heavy-brick")
@@ -2021,17 +2021,17 @@
   (tile
     (id 83)
     (images
-      "objects/bonus_block/full-0.png"
-      "objects/bonus_block/full-1.png"
-      "objects/bonus_block/full-2.png"
-      "objects/bonus_block/full-3.png"
-      "objects/bonus_block/full-4.png"
-      "objects/bonus_block/full-3.png"
-      "objects/bonus_block/full-2.png"
-      "objects/bonus_block/full-1.png"
-      "objects/bonus_block/full-0.png"
-      "objects/bonus_block/full-0.png"
-      "objects/bonus_block/full-0.png"
+      "../../../images/objects/bonus_block/full-0.png"
+      "../../../images/objects/bonus_block/full-1.png"
+      "../../../images/objects/bonus_block/full-2.png"
+      "../../../images/objects/bonus_block/full-3.png"
+      "../../../images/objects/bonus_block/full-4.png"
+      "../../../images/objects/bonus_block/full-3.png"
+      "../../../images/objects/bonus_block/full-2.png"
+      "../../../images/objects/bonus_block/full-1.png"
+      "../../../images/objects/bonus_block/full-0.png"
+      "../../../images/objects/bonus_block/full-0.png"
+      "../../../images/objects/bonus_block/full-0.png"
     )
     (solid #t)
     (object-name "bonusblock")
@@ -2042,8 +2042,8 @@
   (tile
     (id 84)
     (images
-      (surface (diffuse-texture (file "objects/bonus_block/empty.png"))
-              (displacement-texture (file "objects/bonus_block/displacement.png"))
+      (surface (diffuse-texture (file "../../../images/objects/bonus_block/empty.png"))
+              (displacement-texture (file "../../../images/objects/bonus_block/displacement.png"))
       )
     )
     (solid #t)
@@ -2052,7 +2052,7 @@
     (id 3372)
     (solid #t)
     (object-name "invisible_block")
-    (editor-images "objects/bonus_block/bonus-invisible.png")
+    (editor-images "../../../images/objects/bonus_block/bonus-invisible.png")
   )
   (tiles
     (width 4)
@@ -2076,51 +2076,51 @@
   (tile
     (id 102)
     (images
-      "objects/bonus_block/full-0.png"
-      "objects/bonus_block/full-1.png"
-      "objects/bonus_block/full-2.png"
-      "objects/bonus_block/full-3.png"
-      "objects/bonus_block/full-4.png"
-      "objects/bonus_block/full-3.png"
-      "objects/bonus_block/full-2.png"
-      "objects/bonus_block/full-1.png"
-      "objects/bonus_block/full-0.png"
-      "objects/bonus_block/full-0.png"
-      "objects/bonus_block/full-0.png"
+      "../../../images/objects/bonus_block/full-0.png"
+      "../../../images/objects/bonus_block/full-1.png"
+      "../../../images/objects/bonus_block/full-2.png"
+      "../../../images/objects/bonus_block/full-3.png"
+      "../../../images/objects/bonus_block/full-4.png"
+      "../../../images/objects/bonus_block/full-3.png"
+      "../../../images/objects/bonus_block/full-2.png"
+      "../../../images/objects/bonus_block/full-1.png"
+      "../../../images/objects/bonus_block/full-0.png"
+      "../../../images/objects/bonus_block/full-0.png"
+      "../../../images/objects/bonus_block/full-0.png"
     )
     (solid #t)
     (object-name "bonusblock")
     (object-data "(sprite \"images/objects/bonus_block/bonusblock.sprite\") (data 2)")
-    (editor-images "objects/bonus_block/bonus-fire_flower.png")
+    (editor-images "../../../images/objects/bonus_block/bonus-fire_flower.png")
     (data 2)
     (fps 15)
   )
   (tile
     (id 103)
     (images
-      "objects/bonus_block/full-0.png"
-      "objects/bonus_block/full-1.png"
-      "objects/bonus_block/full-2.png"
-      "objects/bonus_block/full-3.png"
-      "objects/bonus_block/full-4.png"
-      "objects/bonus_block/full-3.png"
-      "objects/bonus_block/full-2.png"
-      "objects/bonus_block/full-1.png"
-      "objects/bonus_block/full-0.png"
-      "objects/bonus_block/full-0.png"
-      "objects/bonus_block/full-0.png"
+      "../../../images/objects/bonus_block/full-0.png"
+      "../../../images/objects/bonus_block/full-1.png"
+      "../../../images/objects/bonus_block/full-2.png"
+      "../../../images/objects/bonus_block/full-3.png"
+      "../../../images/objects/bonus_block/full-4.png"
+      "../../../images/objects/bonus_block/full-3.png"
+      "../../../images/objects/bonus_block/full-2.png"
+      "../../../images/objects/bonus_block/full-1.png"
+      "../../../images/objects/bonus_block/full-0.png"
+      "../../../images/objects/bonus_block/full-0.png"
+      "../../../images/objects/bonus_block/full-0.png"
     )
     (solid #t)
     (object-name "bonusblock")
     (object-data "(sprite \"images/objects/bonus_block/bonusblock.sprite\") (data 3)")
-    (editor-images "objects/bonus_block/bonus-star.png")
+    (editor-images "../../../images/objects/bonus_block/bonus-star.png")
     (data 3)
     (fps 15)
   )
   (tile
     (id 104)
     (images
-      "tiles/blocks/brick0.png"
+      "../../../images/tiles/blocks/brick0.png"
     )
     (editor-images "../../../images/tiles/blocks/brick0_full.png")
     (solid #t)
@@ -2130,7 +2130,7 @@
   (tile
     (id 105)
     (images
-      "tiles/blocks/brick1.png"
+      "../../../images/tiles/blocks/brick1.png"
     )
     (editor-images "../../../images/tiles/blocks/brick1_full.png")
     (solid #t)
@@ -2140,7 +2140,7 @@
   (tile
     (id 3160)
     (images
-      "tiles/blocks/brick2.png"
+      "../../../images/tiles/blocks/brick2.png"
     )
     (editor-images "../../../images/tiles/blocks/brick2_full.png")
     (solid #t)
@@ -2160,130 +2160,130 @@
   (tile
     (id 128)
     (images
-      "objects/bonus_block/full-0.png"
-      "objects/bonus_block/full-1.png"
-      "objects/bonus_block/full-2.png"
-      "objects/bonus_block/full-3.png"
-      "objects/bonus_block/full-4.png"
-      "objects/bonus_block/full-3.png"
-      "objects/bonus_block/full-2.png"
-      "objects/bonus_block/full-1.png"
-      "objects/bonus_block/full-0.png"
-      "objects/bonus_block/full-0.png"
-      "objects/bonus_block/full-0.png"
+      "../../../images/objects/bonus_block/full-0.png"
+      "../../../images/objects/bonus_block/full-1.png"
+      "../../../images/objects/bonus_block/full-2.png"
+      "../../../images/objects/bonus_block/full-3.png"
+      "../../../images/objects/bonus_block/full-4.png"
+      "../../../images/objects/bonus_block/full-3.png"
+      "../../../images/objects/bonus_block/full-2.png"
+      "../../../images/objects/bonus_block/full-1.png"
+      "../../../images/objects/bonus_block/full-0.png"
+      "../../../images/objects/bonus_block/full-0.png"
+      "../../../images/objects/bonus_block/full-0.png"
     )
     (solid #t)
     (object-name "bonusblock")
     (object-data "(sprite \"images/objects/bonus_block/bonusblock.sprite\") (data 4)")
-    (editor-images "objects/bonus_block/bonus-1up.png")
+    (editor-images "../../../images/objects/bonus_block/bonus-1up.png")
     (data 4)
     (fps 15)
   )
   (tile
     (id 127)
     (images
-      "tiles/goal/goal3-1.png"
-      "tiles/goal/goal3-2.png"
-      "tiles/goal/goal3-2.png"
-      "tiles/goal/goal3-3.png"
-      "tiles/goal/goal3-4.png"
-      "tiles/goal/goal3-5.png"
-      "tiles/goal/goal3-4.png"
-      "tiles/goal/goal3-3.png"
-      "tiles/goal/goal3-2.png"
-      "tiles/goal/goal3-2.png"
-      "tiles/goal/goal3-1.png"
-      "tiles/goal/goal3-1.png"
+      "../../../images/tiles/goal/goal3-1.png"
+      "../../../images/tiles/goal/goal3-2.png"
+      "../../../images/tiles/goal/goal3-2.png"
+      "../../../images/tiles/goal/goal3-3.png"
+      "../../../images/tiles/goal/goal3-4.png"
+      "../../../images/tiles/goal/goal3-5.png"
+      "../../../images/tiles/goal/goal3-4.png"
+      "../../../images/tiles/goal/goal3-3.png"
+      "../../../images/tiles/goal/goal3-2.png"
+      "../../../images/tiles/goal/goal3-2.png"
+      "../../../images/tiles/goal/goal3-1.png"
+      "../../../images/tiles/goal/goal3-1.png"
     )
     (fps 10)
   )
   (tile
     (id 129)
     (images
-      "tiles/goal/goal2-1.png"
-      "tiles/goal/goal2-2.png"
-      "tiles/goal/goal2-2.png"
-      "tiles/goal/goal2-3.png"
-      "tiles/goal/goal2-4.png"
-      "tiles/goal/goal2-5.png"
-      "tiles/goal/goal2-4.png"
-      "tiles/goal/goal2-3.png"
-      "tiles/goal/goal2-2.png"
-      "tiles/goal/goal2-2.png"
-      "tiles/goal/goal2-1.png"
-      "tiles/goal/goal2-1.png"
+      "../../../images/tiles/goal/goal2-1.png"
+      "../../../images/tiles/goal/goal2-2.png"
+      "../../../images/tiles/goal/goal2-2.png"
+      "../../../images/tiles/goal/goal2-3.png"
+      "../../../images/tiles/goal/goal2-4.png"
+      "../../../images/tiles/goal/goal2-5.png"
+      "../../../images/tiles/goal/goal2-4.png"
+      "../../../images/tiles/goal/goal2-3.png"
+      "../../../images/tiles/goal/goal2-2.png"
+      "../../../images/tiles/goal/goal2-2.png"
+      "../../../images/tiles/goal/goal2-1.png"
+      "../../../images/tiles/goal/goal2-1.png"
     )
     (fps 10)
   )
   (tile
     (id 130)
     (images
-      "tiles/goal/goal1-1.png"
-      "tiles/goal/goal1-2.png"
-      "tiles/goal/goal1-2.png"
-      "tiles/goal/goal1-3.png"
-      "tiles/goal/goal1-4.png"
-      "tiles/goal/goal1-5.png"
-      "tiles/goal/goal1-4.png"
-      "tiles/goal/goal1-3.png"
-      "tiles/goal/goal1-2.png"
-      "tiles/goal/goal1-2.png"
-      "tiles/goal/goal1-1.png"
-      "tiles/goal/goal1-1.png"
+      "../../../images/tiles/goal/goal1-1.png"
+      "../../../images/tiles/goal/goal1-2.png"
+      "../../../images/tiles/goal/goal1-2.png"
+      "../../../images/tiles/goal/goal1-3.png"
+      "../../../images/tiles/goal/goal1-4.png"
+      "../../../images/tiles/goal/goal1-5.png"
+      "../../../images/tiles/goal/goal1-4.png"
+      "../../../images/tiles/goal/goal1-3.png"
+      "../../../images/tiles/goal/goal1-2.png"
+      "../../../images/tiles/goal/goal1-2.png"
+      "../../../images/tiles/goal/goal1-1.png"
+      "../../../images/tiles/goal/goal1-1.png"
     )
     (fps 10)
   )
   (tile
     (id 131)
     (images
-      "tiles/goal/goal3-1_secret.png"
-      "tiles/goal/goal3-2_secret.png"
-      "tiles/goal/goal3-2_secret.png"
-      "tiles/goal/goal3-3_secret.png"
-      "tiles/goal/goal3-4_secret.png"
-      "tiles/goal/goal3-5_secret.png"
-      "tiles/goal/goal3-4_secret.png"
-      "tiles/goal/goal3-3_secret.png"
-      "tiles/goal/goal3-2_secret.png"
-      "tiles/goal/goal3-2_secret.png"
-      "tiles/goal/goal3-1_secret.png"
-      "tiles/goal/goal3-1_secret.png"
+      "../../../images/tiles/goal/goal3-1_secret.png"
+      "../../../images/tiles/goal/goal3-2_secret.png"
+      "../../../images/tiles/goal/goal3-2_secret.png"
+      "../../../images/tiles/goal/goal3-3_secret.png"
+      "../../../images/tiles/goal/goal3-4_secret.png"
+      "../../../images/tiles/goal/goal3-5_secret.png"
+      "../../../images/tiles/goal/goal3-4_secret.png"
+      "../../../images/tiles/goal/goal3-3_secret.png"
+      "../../../images/tiles/goal/goal3-2_secret.png"
+      "../../../images/tiles/goal/goal3-2_secret.png"
+      "../../../images/tiles/goal/goal3-1_secret.png"
+      "../../../images/tiles/goal/goal3-1_secret.png"
     )
     (fps 10)
   )
   (tile
     (id 132)
     (images
-      "tiles/goal/goal2-1_secret.png"
-      "tiles/goal/goal2-2_secret.png"
-      "tiles/goal/goal2-2_secret.png"
-      "tiles/goal/goal2-3_secret.png"
-      "tiles/goal/goal2-4_secret.png"
-      "tiles/goal/goal2-5_secret.png"
-      "tiles/goal/goal2-4_secret.png"
-      "tiles/goal/goal2-3_secret.png"
-      "tiles/goal/goal2-2_secret.png"
-      "tiles/goal/goal2-2_secret.png"
-      "tiles/goal/goal2-1_secret.png"
-      "tiles/goal/goal2-1_secret.png"
+      "../../../images/tiles/goal/goal2-1_secret.png"
+      "../../../images/tiles/goal/goal2-2_secret.png"
+      "../../../images/tiles/goal/goal2-2_secret.png"
+      "../../../images/tiles/goal/goal2-3_secret.png"
+      "../../../images/tiles/goal/goal2-4_secret.png"
+      "../../../images/tiles/goal/goal2-5_secret.png"
+      "../../../images/tiles/goal/goal2-4_secret.png"
+      "../../../images/tiles/goal/goal2-3_secret.png"
+      "../../../images/tiles/goal/goal2-2_secret.png"
+      "../../../images/tiles/goal/goal2-2_secret.png"
+      "../../../images/tiles/goal/goal2-1_secret.png"
+      "../../../images/tiles/goal/goal2-1_secret.png"
     )
     (fps 10)
   )
   (tile
     (id 133)
     (images
-      "tiles/goal/goal1-1_secret.png"
-      "tiles/goal/goal1-2_secret.png"
-      "tiles/goal/goal1-2_secret.png"
-      "tiles/goal/goal1-3_secret.png"
-      "tiles/goal/goal1-4_secret.png"
-      "tiles/goal/goal1-5_secret.png"
-      "tiles/goal/goal1-4_secret.png"
-      "tiles/goal/goal1-3_secret.png"
-      "tiles/goal/goal1-2_secret.png"
-      "tiles/goal/goal1-2_secret.png"
-      "tiles/goal/goal1-1_secret.png"
-      "tiles/goal/goal1-1_secret.png"
+      "../../../images/tiles/goal/goal1-1_secret.png"
+      "../../../images/tiles/goal/goal1-2_secret.png"
+      "../../../images/tiles/goal/goal1-2_secret.png"
+      "../../../images/tiles/goal/goal1-3_secret.png"
+      "../../../images/tiles/goal/goal1-4_secret.png"
+      "../../../images/tiles/goal/goal1-5_secret.png"
+      "../../../images/tiles/goal/goal1-4_secret.png"
+      "../../../images/tiles/goal/goal1-3_secret.png"
+      "../../../images/tiles/goal/goal1-2_secret.png"
+      "../../../images/tiles/goal/goal1-2_secret.png"
+      "../../../images/tiles/goal/goal1-1_secret.png"
+      "../../../images/tiles/goal/goal1-1_secret.png"
     )
     (fps 10)
   )
@@ -2301,22 +2301,22 @@
   (tile
     (id 140)
     (images
-      "objects/bonus_block/full-0.png"
-      "objects/bonus_block/full-1.png"
-      "objects/bonus_block/full-2.png"
-      "objects/bonus_block/full-3.png"
-      "objects/bonus_block/full-4.png"
-      "objects/bonus_block/full-3.png"
-      "objects/bonus_block/full-2.png"
-      "objects/bonus_block/full-1.png"
-      "objects/bonus_block/full-0.png"
-      "objects/bonus_block/full-0.png"
-      "objects/bonus_block/full-0.png"
+      "../../../images/objects/bonus_block/full-0.png"
+      "../../../images/objects/bonus_block/full-1.png"
+      "../../../images/objects/bonus_block/full-2.png"
+      "../../../images/objects/bonus_block/full-3.png"
+      "../../../images/objects/bonus_block/full-4.png"
+      "../../../images/objects/bonus_block/full-3.png"
+      "../../../images/objects/bonus_block/full-2.png"
+      "../../../images/objects/bonus_block/full-1.png"
+      "../../../images/objects/bonus_block/full-0.png"
+      "../../../images/objects/bonus_block/full-0.png"
+      "../../../images/objects/bonus_block/full-0.png"
     )
     (solid #t)
     (object-name "bonusblock")
     (object-data "(sprite \"images/objects/bonus_block/bonusblock.sprite\") (data 5)")
-    (editor-images "objects/bonus_block/bonus-ice_flower.png")
+    (editor-images "../../../images/objects/bonus_block/bonus-ice_flower.png")
     (data 5)
     (fps 15)
   )
@@ -2349,10 +2349,10 @@
       512 512 512 512
     )
     (images
-      "tiles/water/waterfall0-0.png"
-      "tiles/water/waterfall0-1.png"
-      "tiles/water/waterfall0-2.png"
-      "tiles/water/waterfall0-3.png"
+      "../../../images/tiles/water/waterfall0-0.png"
+      "../../../images/tiles/water/waterfall0-1.png"
+      "../../../images/tiles/water/waterfall0-2.png"
+      "../../../images/tiles/water/waterfall0-3.png"
     )
     (fps 10)
   )
@@ -2368,10 +2368,10 @@
       512 512 512
     )
     (images
-      "tiles/water/waterfall1-0.png"
-      "tiles/water/waterfall1-1.png"
-      "tiles/water/waterfall1-2.png"
-      "tiles/water/waterfall1-3.png"
+      "../../../images/tiles/water/waterfall1-0.png"
+      "../../../images/tiles/water/waterfall1-1.png"
+      "../../../images/tiles/water/waterfall1-2.png"
+      "../../../images/tiles/water/waterfall1-3.png"
     )
     (fps 10)
   )
@@ -2446,18 +2446,18 @@
   (tile
     (id 312)
     (images
-      "tiles/jungle/jungle12-1.png"
-      "tiles/jungle/jungle12-1.png"
-      "tiles/jungle/jungle12-1.png"
-      "tiles/jungle/jungle12-1.png"
-      "tiles/jungle/jungle12-2.png"
-      "tiles/jungle/jungle12-3.png"
-      "tiles/jungle/jungle12-4.png"
-      "tiles/jungle/jungle12-4.png"
-      "tiles/jungle/jungle12-4.png"
-      "tiles/jungle/jungle12-4.png"
-      "tiles/jungle/jungle12-3.png"
-      "tiles/jungle/jungle12-2.png"
+      "../../../images/tiles/jungle/jungle12-1.png"
+      "../../../images/tiles/jungle/jungle12-1.png"
+      "../../../images/tiles/jungle/jungle12-1.png"
+      "../../../images/tiles/jungle/jungle12-1.png"
+      "../../../images/tiles/jungle/jungle12-2.png"
+      "../../../images/tiles/jungle/jungle12-3.png"
+      "../../../images/tiles/jungle/jungle12-4.png"
+      "../../../images/tiles/jungle/jungle12-4.png"
+      "../../../images/tiles/jungle/jungle12-4.png"
+      "../../../images/tiles/jungle/jungle12-4.png"
+      "../../../images/tiles/jungle/jungle12-3.png"
+      "../../../images/tiles/jungle/jungle12-2.png"
     )
     (solid #t)
     (fps 10)
@@ -2960,7 +2960,7 @@
   (tile
     (id 1414)
     (images
-      (region "tiles/castle/stone.png" 128 64 32 32)
+      (region "../../../images/tiles/castle/stone.png" 128 64 32 32)
     )
     (solid #t)
   )
@@ -3573,7 +3573,7 @@
   (tile
     (id 1568)
     (images
-      "tiles/castle/castle_block.png"
+      "../../../images/tiles/castle/castle_block.png"
     )
     (solid #t)
   )
@@ -4208,29 +4208,29 @@
       512 512 512 512
     )
     (images
-     (surface (diffuse-texture (file "tiles/water/antarctic-1.png"))
-              (displacement-texture (file "tiles/water/antarctic-displacement.png")))
-     (surface (diffuse-texture (file "tiles/water/antarctic-2.png"))
-              (displacement-texture (file "tiles/water/antarctic-displacement.png")))
-     (surface (diffuse-texture (file "tiles/water/antarctic-3.png"))
-              (displacement-texture (file "tiles/water/antarctic-displacement.png")))
-     (surface (diffuse-texture (file "tiles/water/antarctic-4.png"))
-              (displacement-texture (file "tiles/water/antarctic-displacement.png")))
-     (surface (diffuse-texture (file "tiles/water/antarctic-5.png"))
-              (displacement-texture (file "tiles/water/antarctic-displacement.png")))
-     (surface (diffuse-texture (file "tiles/water/antarctic-6.png"))
-              (displacement-texture (file "tiles/water/antarctic-displacement.png")))
-     (surface (diffuse-texture (file "tiles/water/antarctic-7.png"))
-              (displacement-texture (file "tiles/water/antarctic-displacement.png")))
-     (surface (diffuse-texture (file "tiles/water/antarctic-8.png"))
-              (displacement-texture (file "tiles/water/antarctic-displacement.png")))
+     (surface (diffuse-texture (file "../../../images/tiles/water/antarctic-1.png"))
+              (displacement-texture (file "../../../images/tiles/water/antarctic-displacement.png")))
+     (surface (diffuse-texture (file "../../../images/tiles/water/antarctic-2.png"))
+              (displacement-texture (file "../../../images/tiles/water/antarctic-displacement.png")))
+     (surface (diffuse-texture (file "../../../images/tiles/water/antarctic-3.png"))
+              (displacement-texture (file "../../../images/tiles/water/antarctic-displacement.png")))
+     (surface (diffuse-texture (file "../../../images/tiles/water/antarctic-4.png"))
+              (displacement-texture (file "../../../images/tiles/water/antarctic-displacement.png")))
+     (surface (diffuse-texture (file "../../../images/tiles/water/antarctic-5.png"))
+              (displacement-texture (file "../../../images/tiles/water/antarctic-displacement.png")))
+     (surface (diffuse-texture (file "../../../images/tiles/water/antarctic-6.png"))
+              (displacement-texture (file "../../../images/tiles/water/antarctic-displacement.png")))
+     (surface (diffuse-texture (file "../../../images/tiles/water/antarctic-7.png"))
+              (displacement-texture (file "../../../images/tiles/water/antarctic-displacement.png")))
+     (surface (diffuse-texture (file "../../../images/tiles/water/antarctic-8.png"))
+              (displacement-texture (file "../../../images/tiles/water/antarctic-displacement.png")))
     )
     (fps 16)
   )
   (tile
     (id 2020)
     (images
-     "tiles/water/antarctic.png")
+     "../../../images/tiles/water/antarctic.png")
     (water #t)
     )
 
@@ -4254,14 +4254,14 @@
       3584 3584 3584 3584
     )
     (images
-      "tiles/lava/lava-1.png"
-      "tiles/lava/lava-2.png"
-      "tiles/lava/lava-3.png"
-      "tiles/lava/lava-4.png"
-      "tiles/lava/lava-5.png"
-      "tiles/lava/lava-6.png"
-      "tiles/lava/lava-7.png"
-      "tiles/lava/lava-8.png"
+      "../../../images/tiles/lava/lava-1.png"
+      "../../../images/tiles/lava/lava-2.png"
+      "../../../images/tiles/lava/lava-3.png"
+      "../../../images/tiles/lava/lava-4.png"
+      "../../../images/tiles/lava/lava-5.png"
+      "../../../images/tiles/lava/lava-6.png"
+      "../../../images/tiles/lava/lava-7.png"
+      "../../../images/tiles/lava/lava-8.png"
     )
     (fps 16)
   )
@@ -4269,7 +4269,7 @@
   (tile
     (id 4004)
     (images
-     "tiles/lava/lava.png")
+     "../../../images/tiles/lava/lava.png")
     (water #t)
     (hurts #t)
     (fire #t)
@@ -4298,7 +4298,7 @@
 	 1024 0    1024 0
 	 0    1024 0    1024)
     (images
-      "tiles/snow/spike.png"))
+      "../../../images/tiles/snow/spike.png"))
 
   (tiles
     (width  8)
@@ -4853,8 +4853,8 @@
     (ids 3041 3042 3043 2406)
     (attributes 257 257 257 257)
     (images
-     (surface (diffuse-texture (file "tiles/snow/iceslick.png"))
-              (displacement-texture (file "tiles/snow/iceslick-displacement.png")))))
+     (surface (diffuse-texture (file "../../../images/tiles/snow/iceslick.png"))
+              (displacement-texture (file "../../../images/tiles/snow/iceslick-displacement.png")))))
   (tiles
     (width 4)(height 4)
     (ids
@@ -5128,7 +5128,7 @@
 	(water #t)
 	(hurts #t)
     (images "../../../images/tiles/water/antarctic-1a.png"
-	        "tiles/water/antarctic-1b.png")
+	        "../../../images/tiles/water/antarctic-1b.png")
     (ids
      3873 3874 3875 3876
      )
@@ -5142,7 +5142,7 @@
 	(water #t)
 	(hurts #t)
     (images "../../../images/tiles/water/antarctic-1c.png"
-	        "tiles/water/antarctic-1d.png")
+	        "../../../images/tiles/water/antarctic-1d.png")
     (id
      3877
 	 )
