@@ -15,6 +15,9 @@
     ("levelsets"
       ("levels/industrial"
         ("levels"
+          ("FlamingMysteriesRevamp.stl"
+            (solved #f)
+          )
           ("forest-2.stl"
             (solved #f)
           )
@@ -27,7 +30,7 @@
           ("test.stl"
             (solved #f)
           )
-          ("FlamingMysteriesRevamp.stl"
+          ("Industrial_Test/level1.stl~"
             (solved #f)
           )
           ("forest-3.stl"
