@@ -43,6 +43,7 @@
       5121 5122 5128 5136
       5123 5124 5132 5143
       5118    0 5120    0
+      5160 5162 5161 5163
       5137 5138 5139    0
       5125 5126 5127    0
       5129 5130 5131    0
@@ -88,7 +89,7 @@
     (images "industrial_new.png")
   )
 
-(tiles	
+  (tiles	
     (width 4) ;6
     (height 4) ;7
     (ids
@@ -110,6 +111,20 @@
         65   51   50   64
     )
     (images "terrtttrertetrerettreert.png")
+  )
+
+  (tiles	
+    (width 2)
+    (height 2)
+    (ids
+      5160 5161
+      5162 5163
+    )
+    (attributes
+         1    1
+         0    0
+    )
+    (images "onoff-block.png")
   )
 
 ;----------------------RETRO COMPATIBILITY (Semphris reference)----------------------
