@@ -10,3 +10,11 @@ sector.glitch <- function(...) {
 		}, false).call(v)
 	}
 }
+
+sector.glitch_flip <- function(time = 2.4) {
+	Camera.scale(0, (time / 2) - 0.2)
+	wait(time / 2)
+	Level.flip_vertically()
+	Camera.scale(1, (time / 2) - 0.2)
+	//wait(time / 2)
+}
