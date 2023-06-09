@@ -1,0 +1,16 @@
+(supertux-sprite
+  (action
+    (name "cold")
+    (hitbox 8 4 44 92)
+    (images 
+      "heatercold.png"
+    )
+  )
+  (action
+    (name "hot")
+    (hitbox 8 4 44 92)
+    (images 
+      "heaterhot.png"
+    )
+  )
+)
