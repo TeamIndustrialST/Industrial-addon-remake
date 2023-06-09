@@ -131,6 +131,20 @@
     (images "onoff-block.png")
   )
 
+  (tiles  
+    (width 2)
+    (height 2)
+    (ids
+      5164 0
+      0    0
+    )
+    (attributes
+      1    1
+      0    0
+    )
+    (images "../../../images/engine/missing.png")
+  )
+
 ;----------------------RETRO COMPATIBILITY (Semphris reference)----------------------
 
 	(tilegroup

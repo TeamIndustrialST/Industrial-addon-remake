@@ -1,0 +1,20 @@
+(supertux-sprite
+      (action
+         (fps 12)
+		 (name "normal")
+         (images "../../../../images/objects/bonus_block/full-0.png"
+                 "../../../../images/objects/bonus_block/full-4.png"
+                 "../../../../images/objects/bonus_block/full-1.png"
+                 "../../../../images/objects/bonus_block/full-3.png"
+                 "../../../../images/objects/bonus_block/full-4.png"
+                 "../../../../images/objects/bonus_block/full-2.png"
+                 "../../../../images/objects/bonus_block/full-0.png"
+                 "../../../../images/objects/bonus_block/full-1.png"
+                 ))
+      (action
+         (name "empty")
+         (hitbox 48 96 32 32)
+         (images "../../../../images/engine/missing.png")
+      )
+
+)
