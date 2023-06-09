@@ -30,6 +30,7 @@
       3167 3168 3169 3170
       3173 3174 3175 3189
       3179 3180 3181 3190
+      5165 5166 5167    0
       3185 3186 3187 3188
       3191 3192 3193 3194
       3197 3198 3199 3200
@@ -143,6 +144,18 @@
       0    0
     )
     (images "../../../images/engine/missing.png")
+  )
+
+  (tiles  
+    (width 3)
+    (height 1)
+    (ids
+      5165 5166 5167
+    )
+    (attributes
+      3    3    3
+    )
+    (images "gdgdfgdfgfdgdfg.png")
   )
 
 ;----------------------RETRO COMPATIBILITY (Semphris reference)----------------------
