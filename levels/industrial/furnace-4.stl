@@ -14,9 +14,9 @@
     (background
       (color 0.8 0.7 0.7)
       (speed 0.7)
-      (image-top "res/industrial/gfx-bg/old/factory_inside_bg_top.png")
-      (image "res/industrial/gfx-bg/old/factory_inside_bg_middle.png")
-      (image-bottom "res/industrial/gfx-bg/old/factory_inside_bg_bottom.png")
+      (image-top "/res/industrial/gfx-bg/factory_inside_bg_outer.png")
+      (image "/res/industrial/gfx-bg/factory_inside_bg_middle.png")
+      (image-bottom "/res/industrial/gfx-bg/factory_inside_bg_outer.png")
     )
     (background
       (color 1 1 1)
@@ -459,7 +459,7 @@
       (color 0.4 0.1 0)
       (speed 0.5)
       (speed-y 0)
-      (image "res/industrial/gfx-bg/old/block-snow-background.png")
+      (image "/images/background/retro/block-snow-background.png")
     )
     (background
       (color 1 1 1)
@@ -474,9 +474,9 @@
       (color 1 1 1)
       (speed 0.7)
       (speed-y 0.5)
-      (image-top "res/industrial/gfx-bg/old/factory_inside_bg_top.png")
-      (image "res/industrial/gfx-bg/old/factory_inside_bg_middle.png")
-      (image-bottom "res/industrial/gfx-bg/old/factory_inside_bg_bottom.png")
+      (image-top "/res/industrial/gfx-bg/factory_inside_bg_outer.png")
+      (image "/res/industrial/gfx-bg/factory_inside_bg_middle.png")
+      (image-bottom "/res/industrial/gfx-bg/factory_inside_bg_outer.png")
       (z-pos -299)
     )
     (background
@@ -1215,7 +1215,7 @@
     (background
       (color 1 1 1)
       (speed 0.5)
-      (image "res/industrial/gfx-bg/old/factory_inside_bg_top.png")
+      (image "/res/industrial/gfx-bg/factory_inside_bg_outer.png")
     )
     (background
       (color 1 1 1)
