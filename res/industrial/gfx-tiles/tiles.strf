@@ -158,6 +158,15 @@
     (images "gdgdfgdfgfdgdfg.png")
   )
 
+  (tile
+    (id 5168)
+    (images
+      "../../../images/objects/invisible/invisible.png"
+    )
+    (solid #f)
+    (editor-images "J.png")
+  )
+
 ;----------------------RETRO COMPATIBILITY (Semphris reference)----------------------
 
 	(tilegroup
