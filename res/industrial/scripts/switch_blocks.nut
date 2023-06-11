@@ -1,3 +1,20 @@
+import("res/industrial/scripts/util.nut")
+
+sector.switch_block <- function(tilemap = switchmap) {
+	for(local x = 0; x < sector.tilemap_get_width(tilemap); x++){
+		for(local y = 0; y < sector.tilemap_get_height(tilemap); y++){
+			if(tilemap.get_tile_id(x, y) == 5160) {tilemap.change(x, y, 5162)} else if(tilemap.get_tile_id(x, y) == 5162) tilemap.change(x, y, 5160)
+			if(tilemap.get_tile_id(x, y) == 5161) {tilemap.change(x, y, 5163)} else if(tilemap.get_tile_id(x, y) == 5163) tilemap.change(x, y, 5161)
+		}
+		//wait(0.01)
+	}		
+}
+
+sector.set_block <- function(ison) {
+	//not implemented yet
+}
+
+/*
 off.set_alpha(0)
 
 sector.switch_block <- function() {
@@ -18,4 +35,9 @@ sector.set_block <- function(ison) {
 		on.set_alpha(0)
 		off.set_alpha(1)
 	}
+}
+*/
+
+for(local x = 0; x < sector.tilemap_get_width(switchmap); x++) for(local y = 0; y < sector.tilemap_get_height(switchmap); y++){
+		if(switchmap.get_tile_id(x, y) == 5161) switchmap.change(x, y, 5163)
 }

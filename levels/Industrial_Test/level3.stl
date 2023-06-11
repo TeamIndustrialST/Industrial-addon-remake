@@ -13,7 +13,7 @@
     (background
       (color 1 1 1)
       (speed 0.5)
-      (image "/res/industrial/gfx-bg/old/factory_inside_bg_middle.png")
+      (image "/res/industrial/gfx-bg/factory_inside_bg_middle.png")
     )
     (bonusblock
       (count -1)

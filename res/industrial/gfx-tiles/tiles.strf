@@ -19,7 +19,7 @@
     (source "autotiles.satc")
   )
  
-   ;; next-id: 5143
+   ;; next-id: 5167
   
   ;; free/skipped ids (please use before any other): none
   ;; Tile ids: 4225(4264) - 4292 (!reserved for crystal cave!)
@@ -47,7 +47,7 @@
       5123 5124 5132 5143
       5118    0 5120    0
 
-      5160 5162 5161 5163
+      5160    0 5161    0
 
       5137 5138 5139    0
       5125 5126 5127    0
@@ -156,6 +156,15 @@
       3    3    3
     )
     (images "gdgdfgdfgfdgdfg.png")
+  )
+
+  (tile
+    (id 5168)
+    (images
+      "../../../images/objects/invisible/invisible.png"
+    )
+    (solid #f)
+    (editor-images "J.png")
   )
 
 ;----------------------RETRO COMPATIBILITY (Semphris reference)----------------------
