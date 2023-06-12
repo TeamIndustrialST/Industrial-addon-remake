@@ -18,6 +18,7 @@
     (bonusblock
       (count -1)
       (contents "firegrow")
+      (sprite "/res/industrial/gfx-obj/infblock/infblock.sprite")
       (x 336)
       (y 384)
     )
