@@ -1,0 +1,23 @@
+(supertux-sprite
+      (action
+         (fps 15)
+		 (name "normal")
+         (images "infblock0.png"
+                 "infblock1.png"
+                 "infblock2.png"
+                 "infblock3.png"
+                 "infblock4.png"
+                 "infblock2.png"
+                 "infblock1.png"
+                 "infblock0.png"
+                 "infblock0.png"
+                 "infblock0.png"
+                 ))
+      (action
+         (name "empty")
+         (surfaces
+          (surface
+           (diffuse-texture (file "scriptblock_empty.png"))
+           (displacement-texture (file "displacement.png")))))
+
+)
