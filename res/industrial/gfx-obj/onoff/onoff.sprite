@@ -17,7 +17,7 @@
          (name "empty")
          (surfaces
           (surface
-           (diffuse-texture (file "scriptblock_empty.png"))
-           (displacement-texture (file "displacement.png")))))
+           (diffuse-texture (file "happyhappyhappy.png"))
+           (displacement-texture (file "happyhappyhappy.png")))))
 
 )

@@ -1,0 +1,23 @@
+(supertux-sprite
+      (action
+         (fps 15)
+		 (name "normal")
+         (images "gravity-0.png"
+                 "gravity-1.png"
+                 "gravity-2.png"
+                 "gravity-3.png"
+                 "gravity-4.png"
+                 "gravity-2.png"
+                 "gravity-1.png"
+                 "gravity-0.png"
+                 "gravity-0.png"
+                 "gravity-0.png"
+                 ))
+      (action
+         (name "empty")
+         (surfaces
+          (surface
+           (diffuse-texture (file "WHATDOESTHISMEAN.png"))
+           (displacement-texture (file "WHATDOESTHISMEAN.png")))))
+
+)
