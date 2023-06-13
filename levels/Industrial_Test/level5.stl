@@ -23,7 +23,7 @@
       )
       (contents "custom")
       (x 640)
-      (y 416)
+      (y 448)
     )
     (bonusblock
       (custom-contents
@@ -34,7 +34,7 @@
       )
       (contents "custom")
       (x 672)
-      (y 416)
+      (y 448)
     )
     (bonusblock
       (custom-contents
@@ -88,7 +88,7 @@
       )
       (contents "custom")
       (x 704)
-      (y 416)
+      (y 448)
     )
     (camera
       (name "Camera")
