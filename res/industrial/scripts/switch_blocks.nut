@@ -6,9 +6,11 @@ sector.switch_block_active <- true
 
 sector.switch_block <- function() {
 	if(on.get_alpha() == 0 && off.get_alpha() == 1) {
+		play_sound("res/industrial/sounds/select-on.ogg")
 		on.set_alpha(1)
 		off.set_alpha(0)
 	} else {
+		play_sound("res/industrial/sounds/select-off.ogg")
 		on.set_alpha(0)
 		off.set_alpha(1)
 	}
