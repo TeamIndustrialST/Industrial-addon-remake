@@ -10,7 +10,7 @@ sector.glitch <- function(glitchmap, writemap) {
 	}, false).call(glitchmap, writemap)
 }
 
-sector.glitch_tilemap <- function(tilemap, id = 1, writemap = null, maxtiles = 5167) { //assumes its position is (0, 0)
+sector.glitch_tilemap <- function(tilemap, id = 1, writemap = null, maxtiles = 5169) { //assumes its position is (0, 0)
 	for(local x = 0; x < sector.tilemap_get_width(tilemap); x++)
 			for(local y = 0; y < sector.tilemap_get_height(tilemap); y++)
 				if((tilemap.get_tile_id(x, y) == id || id == -1) && tilemap.get_tile_id(x, y) != 0) //if()

@@ -30,7 +30,7 @@ sector.tilemap_get_width <- function(tilemap) {
 		} else break
 		//wait(0.01)
 	}
-	tilemap.change(0, 0, 0)
+	tilemap.change(0, 1, 0)
 	return inc
 }
 
@@ -45,6 +45,7 @@ sector.tilemap_get_height <- function(tilemap) {
 		} else break
 		//wait(0.01)
 	}
+	tilemap.change(0, 1, 0)
 	return inc
 }
 
