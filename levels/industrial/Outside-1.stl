@@ -65,6 +65,7 @@
       (z-pos -301)
     )
     (music
+      (file "/res/industrial/mus/Outside_1.music")
     )
     (smartball
       (direction "left")
