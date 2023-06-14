@@ -4,16 +4,17 @@ sector.glitch <- function(glitchmap, writemap) {
 	sector.new_thread(function(glitchmap, writemap) {
 		while(true) {
 			//if(tilemap.get_alpha() == 1) tilemap.set_alpha(0); else tilemap.set_alpha(1)
+			//sector.glitch_tiles_on_camera(glitchmap, -1, writemap)
 			sector.glitch_tilemap(glitchmap, -1, writemap)
 			wait(sector.random(10, 50) / 10)
 		}
 	}, false).call(glitchmap, writemap)
 }
 
-sector.glitch_tilemap <- function(tilemap, id = 1, writemap = null, maxtiles = 5169) { //assumes its position is (0, 0)
+sector.glitch_tilemap <- function(tilemap, id = 1, writemap = null, maxtiles = 5169) {
 	for(local x = 0; x < sector.tilemap_get_width(tilemap); x++)
 			for(local y = 0; y < sector.tilemap_get_height(tilemap); y++)
-				if((tilemap.get_tile_id(x, y) == id || id == -1) && tilemap.get_tile_id(x, y) != 0) //if()
+				if((tilemap.get_tile_id(x, y) == id || id == -1) && tilemap.get_tile_id(x, y) != 0)
 					if(rand() % 2 == 0) {
 						if(writemap == null) {tilemap.change(x, y, (sector.random(maxtiles - 1) + 1))} else writemap.change(x, y, (sector.random(maxtiles - 1) + 1))
 					} else {
@@ -21,6 +22,21 @@ sector.glitch_tilemap <- function(tilemap, id = 1, writemap = null, maxtiles = 5
 							if(writemap == null) {tilemap.change(x, y, 5164)} else writemap.change(x, y, 5164)
 						} else if(writemap == null) {tilemap.change(x, y, 0)} else writemap.change(x, y, 0) 
 					}
+}
+
+/*
+sector.glitch_tiles_on_camera <- function(tilemap, id = 1, writemap = null, maxtiles = 5169) { //assumes its position is (0, 0)
+	for(local x = Camera.get_x(); x = Camera.get_x() + x = Camera.get_width(); x += 32)
+		for(local y = Camera.get_y(); y = Camera.get_y() + y = Camera.get_width(); y += 32)
+
+}
+*/
+
+sector.crash <- function() {
+	stop_music(0)
+	play_sound("res/industrial/sounds/iexplore_VERY-LOUD.ogg")
+	wait(9.1879108)
+	while(true) {}
 }
 
 sector.glitch_cutscene <- function(sector, ...) {
