@@ -1,0 +1,20 @@
+;(supertux-surface
+; (diffuse-texture
+;  (file "grid.png")
+;  (wrap "repeat")
+;  )
+;)
+
+(supertux-surface
+    (translate 0 0)
+    (scale 1.0 1.0)
+    (rotate 0)
+    (rotate-center 0.0 0.0)
+    (flip #f #f)
+
+    (diffuse-texture
+     (file "../gfx-obj/heater/heatercold.png")
+     (wrap "repeat")
+     (animate 0 32)
+    )
+)
