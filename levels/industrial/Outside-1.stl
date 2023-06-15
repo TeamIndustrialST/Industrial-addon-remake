@@ -278,6 +278,7 @@
       )
     )
     (torch
+      (sprite "/res/industrial/gfx-obj/lantern/lantern.sprite")
       (x 1152)
       (y 512)
     )

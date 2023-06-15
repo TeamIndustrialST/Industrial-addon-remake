@@ -1,68 +1,88 @@
 (supertux-sprite
-  (action
-    (name "idle-left")
-    (hitbox 7 24 40 24)
-    (fps 5.0)
-    (images
-      "beip-idle.png"
-    )
-  )
-  (action
-    (name "idle-right")
-    (hitbox 7 24 40 24)
-    (mirror-action "idle-left")
-  )
-  (action
-    (name "iced-left")
-    (hitbox 8 24 40 24)
-    (fps 5.0)
-    (images "beip-idle.png")
-  )
-  (action
-    (name "iced-right")
-    (hitbox 8 24 40 24)
-    (mirror-action "iced-left")
-  )
-  (action
-    (name "jumping-left")
-    (hitbox 8 24 40 24)
-    (images
-      "beip-jumping.png"
-    )
-  )
-  (action
-    (name "jumping-right")
-    (fps 10.0)
-    (hitbox 8 24 40 24)
-    (mirror-action "jumping-left")
-  )
-  (action
-    (name "squished-left")
-    (hitbox 8 24 40 24)
-    (images "beip-squished.png")
-  )
-  (action
-    (name "squished-right")
-    (hitbox 8 24 40 24)
-    (mirror-action "squished-left")
-  )
-  (action
-    (name "burning-left")
-    (hitbox 8 24 40 24)
-    (fps 15.0)
-    (images
-      "burning-0.png"
-      "burning-1.png"
-      "burning-2.png"
-      "burning-3.png"
-      "burning-4.png"
-      "burning-5.png"
-      "burning-6.png"
-    )
-  )
-  (action
-    (name "burning-right")
-    (hitbox 8 24 40 24)
-    (mirror-action "burning-left")
-  )
+	(action
+	  (name "standing-left")
+	  (hitbox 9 8 32 38)
+	  (loops 1)
+	  (fps 20)
+	  (images
+      		"beip-idle.png"
+           )
+)
+	
+	(action
+	  (name "standing-right")
+	  (hitbox 9 8 32 38)
+	  (loops 1)
+	  (fps 20)
+	  (mirror-action "standing-left"))
+	
+	(action
+	  (name "charging-left")
+	  (hitbox 9 8 32 38)
+	  (loops 1)
+	  (fps 20)
+	  (images "beip-idle.png"
+			  "beip-idle.png"))
+
+	(action
+	  (name "charging-right")
+	  (hitbox 9 8 32 38)
+	  (loops 1)
+	  (fps 20)
+	  (mirror-action "charging-left"))
+	
+	(action
+	  (name "jumping-left")
+	  (hitbox 9 8 32 38)
+	  (loops 1)
+	  (fps 20)
+	  (images "beip-jumping.png"
+	          "beip-jumping.png"))
+	
+	(action
+	  (name "jumping-right")
+	  (hitbox 9 8 32 38)
+	  (loops 1)
+	  (fps 20)
+	  (mirror-action "jumping-left"))
+	
+    (action
+	  (name "iced-left")
+	  (hitbox 9 8 32 38)
+	  (images "beip-idle.png"))
+	
+	(action
+	  (name "iced-right")
+	  (hitbox 9 8 32 38)
+	  (mirror-action "iced-left"))
+	
+	(action
+	  (name "squished-left")
+	  (hitbox 9 8 32 38)
+	  (images "beip-squished.png"))
+	
+	(action
+	  (name "squished-right")
+	  (hitbox 9 8 32 38)
+	  (mirror-action "squished-left"))
+	
+	(action
+	  (name "burning-left")
+	  (fps 20)
+	  (hitbox 9 8 32 38)
+	  (images "burning-0.png"
+            "burning-1.png"
+            "burning-2.png"
+            "burning-3.png"
+            "burning-4.png"
+            "burning-5.png"
+            "burning-6.png"
+            "burning-7.png"
+            "burning-8.png"
+            "burning-9.png"))
+	(action
+	  (name "burning-right")
+	  (fps 20)
+	  (hitbox 9 8 32 38)
+	  (mirror-action "burning-left"))
 )
