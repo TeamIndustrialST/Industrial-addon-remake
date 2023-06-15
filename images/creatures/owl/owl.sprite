@@ -1,0 +1,13 @@
+(supertux-sprite
+ (action
+  (name "left")
+  (fps 10.0)
+  (hitbox 14 7 35 65)
+  (images "../../../res/industrial/gfx-enemy/owl/owl.png"))
+
+ (action
+  (name "right")
+  (fps 10.0)
+  (hitbox 14 7 35 45)
+  (mirror-action "left"))
+)
