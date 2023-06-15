@@ -68,7 +68,7 @@
 	
 	(action
 	  (name "burning-left")
-	  (fps 20)
+	  (fps 10)
 	  (hitbox 9 8 32 38)
 	  (images "burning-0.png"
             "burning-1.png"
@@ -76,13 +76,10 @@
             "burning-3.png"
             "burning-4.png"
             "burning-5.png"
-            "burning-6.png"
-            "burning-7.png"
-            "burning-8.png"
-            "burning-9.png"))
+            "burning-6.png"))
 	(action
 	  (name "burning-right")
-	  (fps 20)
+	  (fps 10)
 	  (hitbox 9 8 32 38)
 	  (mirror-action "burning-left"))
 )

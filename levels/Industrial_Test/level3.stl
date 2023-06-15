@@ -78,7 +78,7 @@ airship  backgrounnd"))
     )
     (mriceblock
       (direction "left")
-      (sprite "/res/industrial/gfx-enemy/Bocce/Bocce.sprite")
+      (sprite "/res/industrial/gfx-enemy/botchi/Bocce.sprite")
       (x 1712)
       (y 640)
     )
