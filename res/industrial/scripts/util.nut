@@ -19,6 +19,15 @@ sector.get_size <- function(table) {
 	return table.length()
 }
 
+sector.tilemap_is_alive <- function(tilemap) {
+	local oldid = tilemap.get_tile_id(0, 0)
+	tilemap.change(0, 0, 1)
+	if(tilemap.get_tile_id(0, 0) == 1) {
+		tilemap.change(0, 0, oldid)
+		return true
+	} else return false
+}
+
 sector.tilemap_get_width <- function(tilemap) {
 	local inc = 0
 	while(true) {

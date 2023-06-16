@@ -3,7 +3,7 @@ import("res/industrial/scripts/util.nut")
 sector.glitch <- function(glitchmap, writemap) {
 	sector.new_thread(function(glitchmap, writemap) {
 		sector.glitch_tilemap(glitchmap, -1, writemap)
-		while(true) {
+		while(tilemap_is_alive(glitchmap) && tilemap_is_alive(writemap)) {
 			sector.glitch_tiles_on_camera(glitchmap, -1, writemap)
 			wait(sector.random(10, 50) / 10)
 		}
@@ -27,7 +27,6 @@ sector.glitch_tilemap <- function(tilemap, id = 1, writemap = null) {
 					if(writemap == null) {sector.glitch_tile(tilemap, x, y)} else sector.glitch_tile(writemap, x, y)
 					
 }
-
 
 sector.glitch_tiles_on_camera <- function(tilemap, id = 1, writemap = null, maxtiles = 5169) { //assumes its position is (0, 0)
 	for(local x = (Camera.get_x() / 32).tointeger(); x < (((Camera.get_x() + Camera.get_screen_width()) / 32) + 1).tointeger(); x++)
