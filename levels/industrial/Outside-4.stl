@@ -273,7 +273,7 @@
       (y 1056)
     )
     (music
-      (file "/levels/Industrial/Music/preheat.music")
+      (file "/res/industrial/mus/old/rainforest.music")
     )
     (particles-snow
     )
