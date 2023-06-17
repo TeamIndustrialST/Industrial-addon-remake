@@ -21,6 +21,8 @@ ver_info.nfo
 console.err
 console.out
 
+Do not upload the addons folder.
+addons
 
 # Do not upload .stl~ files at all.
 **/*.stl~
