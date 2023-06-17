@@ -1,0 +1,14 @@
+(supertux-sprite
+    (action
+         (fps 12)
+         (name "default")
+         (images "infoblock_0.png"
+                 "infoblock_1.png"
+                 "infoblock_2.png"
+                 "infoblock_3.png"
+                 "infoblock_2.png"
+                 "infoblock_2.png"
+                 "infoblock_2.png"
+                 "infoblock_2.png"
+                 "infoblock_2.png"))
+)

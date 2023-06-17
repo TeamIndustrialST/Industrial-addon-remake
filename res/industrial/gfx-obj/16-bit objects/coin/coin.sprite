@@ -1,0 +1,18 @@
+(supertux-sprite
+      (action 
+          (name "normal")
+          (fps 12.0)
+          (images "coin-0.png"
+                  "coin-1.png"
+                  "coin-2.png"
+                  "coin-3.png"))
+      (action
+          (name "still")
+          (images "coin-0.png"))
+      (action
+          (name "editor-path")
+          (images "path_coin.png"))
+      (action
+          (name "editor-heavy")
+          (images "heavy_coin.png"))
+)
