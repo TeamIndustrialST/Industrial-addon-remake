@@ -145,6 +145,7 @@
       (z-pos -301)
     )
     (music
+      (file "/res/industrial/mus/16-bit Factory.music")
     )
     (skullyhop
       (direction "left")
