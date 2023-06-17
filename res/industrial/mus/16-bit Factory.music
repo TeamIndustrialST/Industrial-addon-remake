@@ -1,0 +1,5 @@
+(supertux-music
+  (file "16-bit Factory.ogg")
+  (loop-begin 00.000)
+  (loop-at    219.636)
+)
