@@ -71,23 +71,8 @@ level_card()")
     )
     (bonusblock
       (sprite "/res/industrial/gfx-obj/16-bit objects/bonus_block/bonusblock.sprite")
-      (x 3264)
-      (y 608)
-    )
-    (bonusblock
-      (sprite "/res/industrial/gfx-obj/16-bit objects/bonus_block/bonusblock.sprite")
-      (x 3392)
-      (y 608)
-    )
-    (bonusblock
-      (sprite "/res/industrial/gfx-obj/16-bit objects/bonus_block/bonusblock.sprite")
       (x 3296)
       (y 480)
-    )
-    (bonusblock
-      (sprite "/res/industrial/gfx-obj/16-bit objects/bonus_block/bonusblock.sprite")
-      (x 3328)
-      (y 352)
     )
     (bonusblock
       (sprite "/res/industrial/gfx-obj/16-bit objects/bonus_block/bonusblock.sprite")
@@ -106,22 +91,12 @@ level_card()")
     )
     (bonusblock
       (sprite "/res/industrial/gfx-obj/16-bit objects/bonus_block/bonusblock.sprite")
-      (x 4256)
-      (y 640)
-    )
-    (bonusblock
-      (sprite "/res/industrial/gfx-obj/16-bit objects/bonus_block/bonusblock.sprite")
       (x 4352)
       (y 640)
     )
     (bonusblock
       (sprite "/res/industrial/gfx-obj/16-bit objects/bonus_block/bonusblock.sprite")
-      (x 4448)
-      (y 640)
-    )
-    (bonusblock
-      (sprite "/res/industrial/gfx-obj/16-bit objects/bonus_block/bonusblock.sprite")
-      (x 4800)
+      (x 4832)
       (y 576)
     )
     (bonusblock
@@ -131,24 +106,13 @@ level_card()")
     )
     (bonusblock
       (sprite "/res/industrial/gfx-obj/16-bit objects/bonus_block/bonusblock.sprite")
-      (x 4992)
+      (x 4960)
       (y 576)
     )
     (bonusblock
       (sprite "/res/industrial/gfx-obj/16-bit objects/bonus_block/bonusblock.sprite")
       (x 4928)
       (y 448)
-    )
-    (bonusblock
-      (sprite "/res/industrial/gfx-obj/16-bit objects/bonus_block/bonusblock.sprite")
-      (x 4864)
-      (y 448)
-    )
-    (bonusblock
-      (contents "explode")
-      (sprite "/res/industrial/gfx-obj/16-bit objects/bonus_block/bonusblock.sprite")
-      (x 4896)
-      (y 320)
     )
     (bonusblock
       (sprite "/res/industrial/gfx-obj/16-bit objects/bonus_block/bonusblock.sprite")
@@ -202,16 +166,6 @@ level_card()")
     )
     (bonusblock
       (sprite "/res/industrial/gfx-obj/16-bit objects/bonus_block/bonusblock.sprite")
-      (x 7456)
-      (y 1056)
-    )
-    (bonusblock
-      (sprite "/res/industrial/gfx-obj/16-bit objects/bonus_block/bonusblock.sprite")
-      (x 7072)
-      (y 1056)
-    )
-    (bonusblock
-      (sprite "/res/industrial/gfx-obj/16-bit objects/bonus_block/bonusblock.sprite")
       (x 8992)
       (y 1056)
     )
@@ -222,17 +176,7 @@ level_card()")
     )
     (bonusblock
       (sprite "/res/industrial/gfx-obj/16-bit objects/bonus_block/bonusblock.sprite")
-      (x 9536)
-      (y 384)
-    )
-    (bonusblock
-      (sprite "/res/industrial/gfx-obj/16-bit objects/bonus_block/bonusblock.sprite")
       (x 9632)
-      (y 384)
-    )
-    (bonusblock
-      (sprite "/res/industrial/gfx-obj/16-bit objects/bonus_block/bonusblock.sprite")
-      (x 9728)
       (y 384)
     )
     (bonusblock
@@ -245,6 +189,26 @@ level_card()")
       (sprite "/res/industrial/gfx-obj/16-bit objects/bonus_block/bonusblock.sprite")
       (x 10304)
       (y 416)
+    )
+    (bonusblock
+      (sprite "/res/industrial/gfx-obj/16-bit objects/bonus_block/bonusblock.sprite")
+      (x 9728)
+      (y 384)
+    )
+    (bonusblock
+      (sprite "/res/industrial/gfx-obj/16-bit objects/bonus_block/bonusblock.sprite")
+      (x 3232)
+      (y 608)
+    )
+    (bonusblock
+      (sprite "/res/industrial/gfx-obj/16-bit objects/bonus_block/bonusblock.sprite")
+      (x 3296)
+      (y 608)
+    )
+    (bonusblock
+      (sprite "/res/industrial/gfx-obj/16-bit objects/bonus_block/bonusblock.sprite")
+      (x 4416)
+      (y 640)
     )
     (brick
       (x 1440)
@@ -307,31 +271,7 @@ level_card()")
       (breakable #t)
     )
     (brick
-      (x 3232)
-      (y 608)
-      (sprite "/res/industrial/gfx-obj/16-bit objects/brick/brick.sprite")
-      (breakable #t)
-    )
-    (brick
-      (x 3296)
-      (y 608)
-      (sprite "/res/industrial/gfx-obj/16-bit objects/brick/brick.sprite")
-      (breakable #t)
-    )
-    (brick
-      (x 3328)
-      (y 608)
-      (sprite "/res/industrial/gfx-obj/16-bit objects/brick/brick.sprite")
-      (breakable #t)
-    )
-    (brick
-      (x 3360)
-      (y 608)
-      (sprite "/res/industrial/gfx-obj/16-bit objects/brick/brick.sprite")
-      (breakable #t)
-    )
-    (brick
-      (x 3424)
+      (x 3264)
       (y 608)
       (sprite "/res/industrial/gfx-obj/16-bit objects/brick/brick.sprite")
       (breakable #t)
@@ -361,18 +301,6 @@ level_card()")
       (breakable #t)
     )
     (brick
-      (x 4224)
-      (y 640)
-      (sprite "/res/industrial/gfx-obj/16-bit objects/brick/brick.sprite")
-      (breakable #t)
-    )
-    (brick
-      (x 4288)
-      (y 640)
-      (sprite "/res/industrial/gfx-obj/16-bit objects/brick/brick.sprite")
-      (breakable #t)
-    )
-    (brick
       (x 4320)
       (y 640)
       (sprite "/res/industrial/gfx-obj/16-bit objects/brick/brick.sprite")
@@ -385,31 +313,13 @@ level_card()")
       (breakable #t)
     )
     (brick
-      (x 4416)
-      (y 640)
-      (sprite "/res/industrial/gfx-obj/16-bit objects/brick/brick.sprite")
-      (breakable #t)
-    )
-    (brick
-      (x 4480)
-      (y 640)
-      (sprite "/res/industrial/gfx-obj/16-bit objects/brick/brick.sprite")
-      (breakable #t)
-    )
-    (brick
-      (x 4832)
+      (x 4800)
       (y 576)
       (sprite "/res/industrial/gfx-obj/16-bit objects/brick/brick.sprite")
       (breakable #t)
     )
     (brick
       (x 4864)
-      (y 576)
-      (sprite "/res/industrial/gfx-obj/16-bit objects/brick/brick.sprite")
-      (breakable #t)
-    )
-    (brick
-      (x 4768)
       (y 576)
       (sprite "/res/industrial/gfx-obj/16-bit objects/brick/brick.sprite")
       (breakable #t)
@@ -427,38 +337,14 @@ level_card()")
       (breakable #t)
     )
     (brick
-      (x 4960)
+      (x 4992)
       (y 576)
-      (sprite "/res/industrial/gfx-obj/16-bit objects/brick/brick.sprite")
-      (breakable #t)
-    )
-    (brick
-      (x 5024)
-      (y 576)
-      (sprite "/res/industrial/gfx-obj/16-bit objects/brick/brick.sprite")
-      (breakable #t)
-    )
-    (brick
-      (x 4864)
-      (y 320)
       (sprite "/res/industrial/gfx-obj/16-bit objects/brick/brick.sprite")
       (breakable #t)
     )
     (brick
       (x 4960)
       (y 448)
-      (sprite "/res/industrial/gfx-obj/16-bit objects/brick/brick.sprite")
-      (breakable #t)
-    )
-    (brick
-      (x 4832)
-      (y 448)
-      (sprite "/res/industrial/gfx-obj/16-bit objects/brick/brick.sprite")
-      (breakable #t)
-    )
-    (brick
-      (x 4928)
-      (y 320)
       (sprite "/res/industrial/gfx-obj/16-bit objects/brick/brick.sprite")
       (breakable #t)
     )
@@ -517,18 +403,6 @@ level_card()")
       (breakable #t)
     )
     (brick
-      (x 7136)
-      (y 1056)
-      (sprite "/res/industrial/gfx-obj/16-bit objects/brick/brick.sprite")
-      (breakable #t)
-    )
-    (brick
-      (x 7104)
-      (y 1056)
-      (sprite "/res/industrial/gfx-obj/16-bit objects/brick/brick.sprite")
-      (breakable #t)
-    )
-    (brick
       (x 7232)
       (y 1056)
       (sprite "/res/industrial/gfx-obj/16-bit objects/brick/brick.sprite")
@@ -551,18 +425,6 @@ level_card()")
       (y 1056)
       (sprite "/res/industrial/gfx-obj/16-bit objects/brick/brick.sprite")
       (breakable #f)
-    )
-    (brick
-      (x 7424)
-      (y 1056)
-      (sprite "/res/industrial/gfx-obj/16-bit objects/brick/brick.sprite")
-      (breakable #t)
-    )
-    (brick
-      (x 7392)
-      (y 1056)
-      (sprite "/res/industrial/gfx-obj/16-bit objects/brick/brick.sprite")
-      (breakable #t)
     )
     (brick
       (x 7296)
@@ -589,18 +451,6 @@ level_card()")
       (breakable #t)
     )
     (brick
-      (x 9504)
-      (y 384)
-      (sprite "/res/industrial/gfx-obj/16-bit objects/brick/brick.sprite")
-      (breakable #t)
-    )
-    (brick
-      (x 9568)
-      (y 384)
-      (sprite "/res/industrial/gfx-obj/16-bit objects/brick/brick.sprite")
-      (breakable #t)
-    )
-    (brick
       (x 9600)
       (y 384)
       (sprite "/res/industrial/gfx-obj/16-bit objects/brick/brick.sprite")
@@ -614,12 +464,6 @@ level_card()")
     )
     (brick
       (x 9696)
-      (y 384)
-      (sprite "/res/industrial/gfx-obj/16-bit objects/brick/brick.sprite")
-      (breakable #t)
-    )
-    (brick
-      (x 9760)
       (y 384)
       (sprite "/res/industrial/gfx-obj/16-bit objects/brick/brick.sprite")
       (breakable #t)
@@ -639,6 +483,42 @@ level_card()")
     (brick
       (x 10336)
       (y 416)
+      (sprite "/res/industrial/gfx-obj/16-bit objects/brick/brick.sprite")
+      (breakable #t)
+    )
+    (brick
+      (x 9760)
+      (y 384)
+      (sprite "/res/industrial/gfx-obj/16-bit objects/brick/brick.sprite")
+      (breakable #t)
+    )
+    (brick
+      (x 7392)
+      (y 1056)
+      (sprite "/res/industrial/gfx-obj/16-bit objects/brick/brick.sprite")
+      (breakable #t)
+    )
+    (brick
+      (x 7136)
+      (y 1056)
+      (sprite "/res/industrial/gfx-obj/16-bit objects/brick/brick.sprite")
+      (breakable #t)
+    )
+    (brick
+      (x 3200)
+      (y 608)
+      (sprite "/res/industrial/gfx-obj/16-bit objects/brick/brick.sprite")
+      (breakable #t)
+    )
+    (brick
+      (x 3328)
+      (y 608)
+      (sprite "/res/industrial/gfx-obj/16-bit objects/brick/brick.sprite")
+      (breakable #t)
+    )
+    (brick
+      (x 4448)
+      (y 640)
       (sprite "/res/industrial/gfx-obj/16-bit objects/brick/brick.sprite")
       (breakable #t)
     )
@@ -666,107 +546,107 @@ level_card()")
     )
     (coin
       (sprite "/res/industrial/gfx-obj/16-bit objects/coin/coin.sprite")
+      (x 3232)
+      (y 544)
+    )
+    (coin
+      (sprite "/res/industrial/gfx-obj/16-bit objects/coin/coin.sprite")
+      (x 2336)
+      (y 800)
+    )
+    (coin
+      (sprite "/res/industrial/gfx-obj/16-bit objects/coin/coin.sprite")
+      (x 2336)
+      (y 768)
+    )
+    (coin
+      (sprite "/res/industrial/gfx-obj/16-bit objects/coin/coin.sprite")
+      (x 2368)
+      (y 768)
+    )
+    (coin
+      (sprite "/res/industrial/gfx-obj/16-bit objects/coin/coin.sprite")
+      (x 2368)
+      (y 800)
+    )
+    (coin
+      (sprite "/res/industrial/gfx-obj/16-bit objects/coin/coin.sprite")
+      (x 2400)
+      (y 768)
+    )
+    (coin
+      (sprite "/res/industrial/gfx-obj/16-bit objects/coin/coin.sprite")
+      (x 2400)
+      (y 800)
+    )
+    (coin
+      (sprite "/res/industrial/gfx-obj/16-bit objects/coin/coin.sprite")
+      (x 2592)
+      (y 640)
+    )
+    (coin
+      (sprite "/res/industrial/gfx-obj/16-bit objects/coin/coin.sprite")
+      (x 2624)
+      (y 640)
+    )
+    (coin
+      (sprite "/res/industrial/gfx-obj/16-bit objects/coin/coin.sprite")
+      (x 2656)
+      (y 640)
+    )
+    (coin
+      (sprite "/res/industrial/gfx-obj/16-bit objects/coin/coin.sprite")
+      (x 2624)
+      (y 608)
+    )
+    (coin
+      (sprite "/res/industrial/gfx-obj/16-bit objects/coin/coin.sprite")
+      (x 2656)
+      (y 608)
+    )
+    (coin
+      (sprite "/res/industrial/gfx-obj/16-bit objects/coin/coin.sprite")
+      (x 2592)
+      (y 608)
+    )
+    (coin
+      (sprite "/res/industrial/gfx-obj/16-bit objects/coin/coin.sprite")
+      (x 2848)
+      (y 704)
+    )
+    (coin
+      (sprite "/res/industrial/gfx-obj/16-bit objects/coin/coin.sprite")
+      (x 2880)
+      (y 704)
+    )
+    (coin
+      (sprite "/res/industrial/gfx-obj/16-bit objects/coin/coin.sprite")
+      (x 2912)
+      (y 704)
+    )
+    (coin
+      (sprite "/res/industrial/gfx-obj/16-bit objects/coin/coin.sprite")
+      (x 2880)
+      (y 736)
+    )
+    (coin
+      (sprite "/res/industrial/gfx-obj/16-bit objects/coin/coin.sprite")
+      (x 2912)
+      (y 736)
+    )
+    (coin
+      (sprite "/res/industrial/gfx-obj/16-bit objects/coin/coin.sprite")
+      (x 2848)
+      (y 736)
+    )
+    (coin
+      (sprite "/res/industrial/gfx-obj/16-bit objects/coin/coin.sprite")
+      (x 3264)
+      (y 544)
+    )
+    (coin
+      (sprite "/res/industrial/gfx-obj/16-bit objects/coin/coin.sprite")
       (x 3296)
-      (y 544)
-    )
-    (coin
-      (sprite "/res/industrial/gfx-obj/16-bit objects/coin/coin.sprite")
-      (x 2336)
-      (y 800)
-    )
-    (coin
-      (sprite "/res/industrial/gfx-obj/16-bit objects/coin/coin.sprite")
-      (x 2336)
-      (y 768)
-    )
-    (coin
-      (sprite "/res/industrial/gfx-obj/16-bit objects/coin/coin.sprite")
-      (x 2368)
-      (y 768)
-    )
-    (coin
-      (sprite "/res/industrial/gfx-obj/16-bit objects/coin/coin.sprite")
-      (x 2368)
-      (y 800)
-    )
-    (coin
-      (sprite "/res/industrial/gfx-obj/16-bit objects/coin/coin.sprite")
-      (x 2400)
-      (y 768)
-    )
-    (coin
-      (sprite "/res/industrial/gfx-obj/16-bit objects/coin/coin.sprite")
-      (x 2400)
-      (y 800)
-    )
-    (coin
-      (sprite "/res/industrial/gfx-obj/16-bit objects/coin/coin.sprite")
-      (x 2592)
-      (y 640)
-    )
-    (coin
-      (sprite "/res/industrial/gfx-obj/16-bit objects/coin/coin.sprite")
-      (x 2624)
-      (y 640)
-    )
-    (coin
-      (sprite "/res/industrial/gfx-obj/16-bit objects/coin/coin.sprite")
-      (x 2656)
-      (y 640)
-    )
-    (coin
-      (sprite "/res/industrial/gfx-obj/16-bit objects/coin/coin.sprite")
-      (x 2624)
-      (y 608)
-    )
-    (coin
-      (sprite "/res/industrial/gfx-obj/16-bit objects/coin/coin.sprite")
-      (x 2656)
-      (y 608)
-    )
-    (coin
-      (sprite "/res/industrial/gfx-obj/16-bit objects/coin/coin.sprite")
-      (x 2592)
-      (y 608)
-    )
-    (coin
-      (sprite "/res/industrial/gfx-obj/16-bit objects/coin/coin.sprite")
-      (x 2848)
-      (y 704)
-    )
-    (coin
-      (sprite "/res/industrial/gfx-obj/16-bit objects/coin/coin.sprite")
-      (x 2880)
-      (y 704)
-    )
-    (coin
-      (sprite "/res/industrial/gfx-obj/16-bit objects/coin/coin.sprite")
-      (x 2912)
-      (y 704)
-    )
-    (coin
-      (sprite "/res/industrial/gfx-obj/16-bit objects/coin/coin.sprite")
-      (x 2880)
-      (y 736)
-    )
-    (coin
-      (sprite "/res/industrial/gfx-obj/16-bit objects/coin/coin.sprite")
-      (x 2912)
-      (y 736)
-    )
-    (coin
-      (sprite "/res/industrial/gfx-obj/16-bit objects/coin/coin.sprite")
-      (x 2848)
-      (y 736)
-    )
-    (coin
-      (sprite "/res/industrial/gfx-obj/16-bit objects/coin/coin.sprite")
-      (x 3328)
-      (y 544)
-    )
-    (coin
-      (sprite "/res/industrial/gfx-obj/16-bit objects/coin/coin.sprite")
-      (x 3360)
       (y 544)
     )
     (coin
@@ -801,17 +681,7 @@ level_card()")
     )
     (coin
       (sprite "/res/industrial/gfx-obj/16-bit objects/coin/coin.sprite")
-      (x 4288)
-      (y 576)
-    )
-    (coin
-      (sprite "/res/industrial/gfx-obj/16-bit objects/coin/coin.sprite")
       (x 4352)
-      (y 576)
-    )
-    (coin
-      (sprite "/res/industrial/gfx-obj/16-bit objects/coin/coin.sprite")
-      (x 4416)
       (y 576)
     )
     (coin
@@ -828,16 +698,6 @@ level_card()")
       (sprite "/res/industrial/gfx-obj/16-bit objects/coin/coin.sprite")
       (x 4832)
       (y 512)
-    )
-    (coin
-      (sprite "/res/industrial/gfx-obj/16-bit objects/coin/coin.sprite")
-      (x 4864)
-      (y 384)
-    )
-    (coin
-      (sprite "/res/industrial/gfx-obj/16-bit objects/coin/coin.sprite")
-      (x 4928)
-      (y 384)
     )
     (coin
       (sprite "/res/industrial/gfx-obj/16-bit objects/coin/coin.sprite")
@@ -976,16 +836,6 @@ level_card()")
     )
     (coin
       (sprite "/res/industrial/gfx-obj/16-bit objects/coin/coin.sprite")
-      (x 7872)
-      (y 960)
-    )
-    (coin
-      (sprite "/res/industrial/gfx-obj/16-bit objects/coin/coin.sprite")
-      (x 8032)
-      (y 928)
-    )
-    (coin
-      (sprite "/res/industrial/gfx-obj/16-bit objects/coin/coin.sprite")
       (x 8192)
       (y 928)
     )
@@ -993,16 +843,6 @@ level_card()")
       (sprite "/res/industrial/gfx-obj/16-bit objects/coin/coin.sprite")
       (x 8224)
       (y 928)
-    )
-    (coin
-      (sprite "/res/industrial/gfx-obj/16-bit objects/coin/coin.sprite")
-      (x 8384)
-      (y 928)
-    )
-    (coin
-      (sprite "/res/industrial/gfx-obj/16-bit objects/coin/coin.sprite")
-      (x 8544)
-      (y 960)
     )
     (coin
       (sprite "/res/industrial/gfx-obj/16-bit objects/coin/coin.sprite")
@@ -1041,7 +881,7 @@ level_card()")
     )
     (coin
       (sprite "/res/industrial/gfx-obj/16-bit objects/coin/coin.sprite")
-      (x 9568)
+      (x 9728)
       (y 320)
     )
     (coin
@@ -1051,8 +891,48 @@ level_card()")
     )
     (coin
       (sprite "/res/industrial/gfx-obj/16-bit objects/coin/coin.sprite")
-      (x 9696)
+      (x 9680)
       (y 320)
+    )
+    (coin
+      (sprite "/res/industrial/gfx-obj/16-bit objects/coin/coin.sprite")
+      (x 4384)
+      (y 576)
+    )
+    (coin
+      (sprite "/res/industrial/gfx-obj/16-bit objects/coin/coin.sprite")
+      (x 4416)
+      (y 576)
+    )
+    (coin
+      (sprite "/res/industrial/gfx-obj/16-bit objects/coin/coin.sprite")
+      (x 7696)
+      (y 992)
+    )
+    (coin
+      (sprite "/res/industrial/gfx-obj/16-bit objects/coin/coin.sprite")
+      (x 7632)
+      (y 1040)
+    )
+    (coin
+      (sprite "/res/industrial/gfx-obj/16-bit objects/coin/coin.sprite")
+      (x 8784)
+      (y 1040)
+    )
+    (coin
+      (sprite "/res/industrial/gfx-obj/16-bit objects/coin/coin.sprite")
+      (x 8720)
+      (y 992)
+    )
+    (coin
+      (sprite "/res/industrial/gfx-obj/16-bit objects/coin/coin.sprite")
+      (x 8848)
+      (y 1088)
+    )
+    (coin
+      (sprite "/res/industrial/gfx-obj/16-bit objects/coin/coin.sprite")
+      (x 7568)
+      (y 1088)
     )
     (decal
       (sprite "/res/industrial/gfx-obj/16-bit objects/walljump/wallejump.png")
@@ -1100,30 +980,6 @@ level_card()")
       (x 1104)
       (y 800)
     )
-    (flyingsnowball
-      (direction "left")
-      (sprite "/res/industrial/gfx-enemy/dave/RoboPilot.sprite")
-      (x 7872)
-      (y 1056)
-    )
-    (flyingsnowball
-      (direction "left")
-      (sprite "/res/industrial/gfx-enemy/dave/RoboPilot.sprite")
-      (x 8032)
-      (y 1024)
-    )
-    (flyingsnowball
-      (direction "left")
-      (sprite "/res/industrial/gfx-enemy/dave/RoboPilot.sprite")
-      (x 8384)
-      (y 1024)
-    )
-    (flyingsnowball
-      (direction "left")
-      (sprite "/res/industrial/gfx-enemy/dave/RoboPilot.sprite")
-      (x 8544)
-      (y 1056)
-    )
     (gradient
       (top_color 0.3 0.4 0.75)
       (bottom_color 1 1 1)
@@ -1147,7 +1003,6 @@ level_card()")
     (path
       (name "gen16870314912169917936416")
       (path
-        (mode "pingpong")
         (adapt_speed #f)
         (node
           (x 5216)
@@ -1155,19 +1010,79 @@ level_card()")
           (bezier_before_x 5216)
           (bezier_before_y 896)
           (bezier_after_x 5216)
-          (bezier_after_y 896)
+          (bezier_after_y 608)
           (time 4)
           (easing "EaseQuadInOut")
         )
         (node
           (x 5728)
           (y 544)
-          (bezier_before_x 5632)
-          (bezier_before_y 448)
-          (bezier_after_x 5600)
-          (bezier_after_y 512)
+          (bezier_before_x 5728)
+          (bezier_before_y 384)
+          (bezier_after_x 5728)
+          (bezier_after_y 672)
           (time 4)
           (easing "EaseQuadInOut")
+        )
+      )
+    )
+    (path
+      (name "gen16871624082687215973744")
+      (path
+        (adapt_speed #f)
+        (node
+          (x 7776)
+          (y 1056)
+          (bezier_before_x 7776)
+          (bezier_before_y 1184)
+          (bezier_after_x 7776)
+          (bezier_after_y 928)
+        )
+        (node
+          (x 7904)
+          (y 928)
+          (bezier_after_x 8032)
+          (bezier_after_y 928)
+        )
+        (node
+          (x 8032)
+          (y 1056)
+          (bezier_after_x 8032)
+          (bezier_after_y 1184)
+        )
+        (node
+          (x 7904)
+          (y 1184)
+        )
+      )
+    )
+    (path
+      (name "gen16871627912687215996448")
+      (path
+        (adapt_speed #f)
+        (node
+          (x 8544)
+          (y 1056)
+          (bezier_after_x 8544)
+          (bezier_after_y 1184)
+        )
+        (node
+          (x 8416)
+          (y 1184)
+          (bezier_after_x 8288)
+          (bezier_after_y 1184)
+        )
+        (node
+          (x 8288)
+          (y 1056)
+          (bezier_after_x 8288)
+          (bezier_after_y 928)
+        )
+        (node
+          (x 8416)
+          (y 928)
+          (bezier_after_x 8544)
+          (bezier_after_y 928)
         )
       )
     )
@@ -1181,6 +1096,26 @@ level_card()")
       (running #f)
       (name "p1")
       (path-ref "gen16870314912169917936416")
+    )
+    (platform
+      (handle
+        (scale_x 0)
+        (scale_y 0)
+        (offset_x 0)
+        (offset_y 0)
+      )
+      (name "p")
+      (path-ref "gen16871624082687215973744")
+    )
+    (platform
+      (handle
+        (scale_x 0)
+        (scale_y 0)
+        (offset_x 0)
+        (offset_y 0)
+      )
+      (name "p")
+      (path-ref "gen16871627912687215996448")
     )
     (secretarea
       (fade-tilemap "jimmy")
@@ -1210,16 +1145,10 @@ level_card()")
       (x 1312)
       (y 752)
     )
-    (skullyhop
-      (direction "left")
-      (sprite "/res/industrial/gfx-enemy/beip_bob/beip.sprite")
-      (x 5056)
-      (y 672)
-    )
     (smartball
       (direction "left")
       (sprite "/res/industrial/gfx-enemy/MrMetal/MrMetal.sprite")
-      (x 3360)
+      (x 3264)
       (y 576)
     )
     (smartball
@@ -1243,26 +1172,14 @@ level_card()")
     (smartball
       (direction "left")
       (sprite "/res/industrial/gfx-enemy/MrMetal/MrMetal.sprite")
-      (x 6272)
-      (y 512)
-    )
-    (smartball
-      (direction "left")
-      (sprite "/res/industrial/gfx-enemy/MrMetal/MrMetal.sprite")
       (x 7168)
       (y 1024)
     )
     (smartball
-      (direction "left")
+      (direction "right")
       (sprite "/res/industrial/gfx-enemy/MrMetal/MrMetal.sprite")
       (x 7360)
       (y 1024)
-    )
-    (smartball
-      (direction "left")
-      (sprite "/res/industrial/gfx-enemy/MrMetal/MrMetal.sprite")
-      (x 9568)
-      (y 480)
     )
     (smartball
       (direction "left")
@@ -1285,7 +1202,7 @@ level_card()")
     (smartblock
       (direction "left")
       (sprite "/res/industrial/gfx-enemy/botchi/Bocce.sprite")
-      (x 7168)
+      (x 7200)
       (y 1152)
     )
     (smartblock
@@ -1302,13 +1219,7 @@ level_card()")
     (spiky
       (direction "left")
       (sprite "/res/industrial/gfx-enemy/Rollspike/Rollspike.sprite")
-      (x 7264)
-      (y 1152)
-    )
-    (spiky
-      (direction "left")
-      (sprite "/res/industrial/gfx-enemy/Rollspike/Rollspike.sprite")
-      (x 7360)
+      (x 7328)
       (y 1152)
     )
     (spiky
@@ -1326,14 +1237,8 @@ level_card()")
     (spiky
       (direction "left")
       (sprite "/res/industrial/gfx-enemy/Rollspike/Rollspike.sprite")
-      (x 10624)
+      (x 10592)
       (y 512)
-    )
-    (spiky
-      (direction "left")
-      (sprite "/res/industrial/gfx-enemy/Rollspike/Rollspike.sprite")
-      (x 9312)
-      (y 1152)
     )
     (switch
       (script "p1.start_moving();")
@@ -1451,8 +1356,8 @@ level_card()")
       (height 43)
       (tiles
       5186 5187 5188 5189 5173 5173 5188 5189 5186 5187 5188 5189 5173 5173 5188 5189 5186 5187 5188 5189 5173 5173 5197 0 0 0 0 0 0 0 0 0 0 0 5188 5189 5173 5173 5188 5189 5173 5173 5188 5189 5186 5187 5188 5189 5173 5173 5188 5189 5173 5173 5188 5189 5186 5187 5188 5189 5173 5173 5188 5189 5173 5173 5188 5189 5186 5187 5188 5189 5173 5173 5188 5189 5173 5173 5188 5189 5173 5173 5188 5189 5173 5173 5188 5189 5173 5173 5188 5189 5173 5173 5188 5189 5173 5173 5188 5189 0 0 0 0 0 0 0 5196 5193 5188 5189 5186 5187 5188 5189 5173 5173 5188 5189 5186 5187 5188 5189 5173 5173 5188 5189 5186 5187 5188 5189 5173 5173 5188 5189 5173 5173 5188 5189 5186 5187 5188 5189 5173 5173 5188 5189 5173 5173 5188 5189 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 5186 5187 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 5179 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 5179 0 0 0 0 0 0 0 0 0 0 0 0 0 5179 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 5194 5195 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 5193 5186 5187 5188 5189 5186 5187 5188 5189 5173 5173 5188 5189 5186 5187 5188 5189 5173 5173 5188 5189 5186 5187
-      5173 5173 5194 5195 5186 5187 5194 5195 5173 5173 5194 5195 5186 5187 5194 5195 5173 5173 5194 5195 5186 5187 0 0 0 0 0 0 0 0 0 0 0 0 5194 5195 5186 5187 5194 5195 5186 5187 5194 5195 5173 5173 5194 5195 5186 5187 5194 5195 5186 5187 5194 5195 5173 5173 5194 5195 5186 5187 5194 5195 5186 5187 5194 5195 5173 5173 5194 5195 5186 5187 5194 5195 5186 5187 5194 5195 5186 5187 5194 5195 5186 5187 5194 5195 5186 5187 5194 5195 5186 5187 5194 5195 5186 5187 5194 5195 0 0 0 0 0 0 0 0 5192 5194 5195 5173 5173 5194 5195 5186 5187 5194 5195 5173 5173 5194 5195 5186 5187 5194 5195 5173 5173 5194 5195 5186 5187 5194 5195 5186 5187 5194 5195 5173 5173 5194 5195 5186 5187 5194 5195 5186 5187 5194 5195 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 5188 5189 5191 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 5179 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 5179 0 0 0 0 0 0 0 0 0 0 0 0 0 5179 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 5186 5187 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 5196 5173 5173 5194 5195 5173 5173 5194 5195 5186 5187 5194 5195 5173 5173 5194 5195 5186 5187 5194 5195 5173 5173
-      5188 5189 5186 5187 5188 5189 5173 5173 5188 5189 5186 5187 5188 5189 5173 5173 5188 5189 5186 5187 5173 5173 0 0 0 0 0 0 0 0 0 0 0 0 5196 5196 5173 5173 5173 5173 5188 5189 5173 5173 5188 5189 5173 5173 5188 5189 5186 5187 5188 5189 5173 5173 5188 5189 5173 5173 5188 5189 5186 5187 5188 5189 5173 5173 5188 5189 5173 5173 5188 5189 5186 5187 5188 5189 5173 5173 5188 5189 5173 5173 5188 5189 5173 5173 5188 5189 5173 5173 5188 5189 5173 5173 5173 5197 5197 5197 0 0 0 0 0 0 0 0 5193 5186 5187 5188 5189 5186 5187 5188 5189 5173 5173 5188 5189 5186 5187 5188 5189 5173 5173 5188 5189 5186 5187 5188 5189 5186 5187 5188 5189 5173 5173 5188 5189 5186 5187 5188 5189 5173 5173 5188 5189 5197 5197 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 5194 5195 5186 5187 5191 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 5179 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 5179 0 0 0 0 0 0 0 0 0 0 0 0 0 5179 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 5173 5173 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 5188 5189 5186 5187 5188 5189 5173 5173 5188 5189 5173 5173 5188 5189 5186 5187 5188 5189 5173 5173 5188 5189
+      5173 5173 5194 5195 5186 5187 5194 5195 5173 5173 5194 5195 5186 5187 5194 5195 5173 5173 5194 5195 5186 5187 0 0 0 0 0 0 0 0 0 0 0 0 5194 5195 5186 5187 5194 5195 5186 5187 5194 5195 5173 5173 5194 5195 5186 5187 5194 5195 5186 5187 5194 5195 5173 5173 5194 5195 5186 5187 5194 5195 5186 5187 5194 5195 5173 5173 5194 5195 5186 5187 5194 5195 5186 5187 5194 5195 5186 5187 5194 5195 5186 5187 5194 5195 5186 5187 5194 5195 5186 5187 5194 5195 5186 5187 5194 5195 0 0 0 0 0 0 0 0 5192 5194 5195 5173 5173 5194 5195 5186 5187 5194 5195 5173 5173 5194 5195 5186 5187 5194 5195 5173 5173 5194 5195 5186 5187 5194 5195 5186 5187 5194 5195 5173 5173 5194 5195 5186 5187 5194 5195 5186 5187 5194 5195 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 5188 5189 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 5179 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 5179 0 0 0 0 0 0 0 0 0 0 0 0 0 5179 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 5186 5187 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 5196 5173 5173 5194 5195 5173 5173 5194 5195 5186 5187 5194 5195 5173 5173 5194 5195 5186 5187 5194 5195 5173 5173
+      5188 5189 5186 5187 5188 5189 5173 5173 5188 5189 5186 5187 5188 5189 5173 5173 5188 5189 5186 5187 5173 5173 0 0 0 0 0 0 0 0 0 0 0 0 5196 5196 5173 5173 5173 5173 5188 5189 5173 5173 5188 5189 5173 5173 5188 5189 5186 5187 5188 5189 5173 5173 5188 5189 5173 5173 5188 5189 5186 5187 5188 5189 5173 5173 5188 5189 5173 5173 5188 5189 5186 5187 5188 5189 5173 5173 5188 5189 5173 5173 5188 5189 5173 5173 5188 5189 5173 5173 5188 5189 5173 5173 5173 5197 5197 5197 0 0 0 0 0 0 0 0 5193 5186 5187 5188 5189 5186 5187 5188 5189 5173 5173 5188 5189 5186 5187 5188 5189 5173 5173 5188 5189 5186 5187 5188 5189 5186 5187 5188 5189 5173 5173 5188 5189 5186 5187 5188 5189 5173 5173 5188 5189 5197 5197 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 5194 5195 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 5179 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 5179 0 0 0 0 0 0 0 0 0 0 0 0 0 5179 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 5173 5173 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 5188 5189 5186 5187 5188 5189 5173 5173 5188 5189 5173 5173 5188 5189 5186 5187 5188 5189 5173 5173 5188 5189
       5194 5195 5173 5173 5194 5195 5186 5187 5194 5195 5173 5173 5194 5195 5186 5187 5194 5195 5173 5173 5197 5197 0 0 0 0 0 0 0 0 0 0 0 0 0 5196 5196 5192 5186 5187 5194 5195 5186 5187 5194 5195 5186 5187 5194 5195 5173 5173 5194 5195 5186 5187 5194 5195 5186 5187 5194 5195 5173 5173 5194 5195 5186 5187 5194 5195 5186 5187 5194 5195 5173 5173 5194 5195 5186 5187 5194 5195 5186 5187 5194 5195 5186 5187 5194 5195 5186 5187 5194 5195 5186 5187 5192 5197 5197 0 0 0 0 0 0 0 0 0 5196 5173 5173 5194 5195 5173 5173 5194 5195 5186 5187 5194 5195 5173 5173 5194 5195 5186 5187 5194 5195 5173 5173 5194 5195 5173 5173 5194 5195 5186 5187 5194 5195 5173 5173 5194 5195 5186 5187 5194 5195 5197 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 5186 5187 5173 5186 5187 5186 5187 5186 5187 5186 5187 5186 5187 5173 5192 5191 0 0 0 0 0 0 0 0 0 0 0 0 0 5179 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 5179 0 0 0 0 0 0 0 0 0 0 0 0 0 5179 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 5188 5189 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 5194 5195 5173 5173 5194 5195 5186 5187 5194 5195 5186 5187 5194 5195 5173 5173 5194 5195 5186 5187 5194 5195
       5186 5187 5188 5189 5173 5173 5188 5189 5186 5187 5188 5189 5173 5173 5188 5189 5186 5187 5188 5189 5197 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 5196 5193 5188 5189 5186 5187 5188 5189 5173 5173 5188 5189 5186 5187 5188 5189 5186 5187 5188 5189 5173 5173 5188 5189 5186 5187 5188 5189 5186 5187 5188 5189 5173 5173 5188 5189 5186 5187 5188 5189 5186 5187 5188 5189 5173 5173 5188 5189 5186 5187 5188 5189 5173 5173 5188 5189 5186 5187 5188 5189 5193 5197 0 0 0 0 0 0 0 0 0 0 0 5188 5189 5186 5187 5188 5189 5173 5173 5188 5189 5173 5173 5188 5189 5186 5187 5188 5189 5173 5173 5188 5189 5186 5187 5188 5189 5186 5187 5188 5189 5173 5173 5188 5189 5186 5187 5188 5189 5186 5187 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 5173 5173 5186 5187 5186 5187 5186 5187 5186 5187 5186 5187 5186 5187 5193 5192 0 0 0 0 0 0 0 0 0 0 0 0 0 5179 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 5179 0 0 0 0 0 0 0 0 0 0 0 0 0 5179 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 5194 5195 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 5196 5196 5188 5189 5186 5187 5188 5189 5173 5173 5188 5189 5173 5173 5188 5189 5186 5187 5188 5189 5173 5173
       5173 5173 5194 5195 5186 5187 5194 5195 5173 5173 5194 5195 5186 5187 5194 5195 5173 5173 5194 5195 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 5192 5194 5195 5173 5173 5194 5195 5186 5187 5194 5195 5173 5173 5194 5195 5173 5173 5194 5195 5186 5187 5194 5195 5173 5173 5194 5195 5173 5173 5194 5195 5186 5187 5194 5195 5173 5173 5194 5195 5173 5173 5194 5195 5186 5187 5194 5195 5173 5173 5194 5195 5186 5187 5194 5195 5173 5173 5194 5195 5192 0 0 0 0 0 0 0 0 0 0 0 0 5194 5195 5173 5173 5194 5195 5186 5187 5194 5195 5186 5187 5194 5195 5173 5173 5194 5195 5186 5187 5194 5195 5173 5173 5194 5195 5173 5173 5194 5195 5186 5187 5194 5195 5173 5173 5194 5195 5173 5173 5191 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 5188 5189 5197 0 0 0 0 0 0 0 0 0 0 5196 5192 5193 0 0 0 0 0 0 0 0 0 0 0 0 0 5179 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 5179 0 0 0 0 0 0 0 0 0 0 0 0 0 5179 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 5173 5173 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 5196 5194 5195 5173 5173 5194 5195 5186 5187 5194 5195 5173 5173 5194 5195 5186 5187 5194 5195 5173 5173
@@ -1464,29 +1369,29 @@ level_card()")
       5194 5195 5186 5187 5194 5195 5173 5173 5194 5195 5186 5187 5194 5195 5173 5173 5197 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 5196 5194 5195 5173 5173 5194 5195 5186 5187 5194 5195 5173 5173 5194 5195 5186 5187 5194 5195 5173 5173 5194 5195 5186 5187 5194 5195 5186 5187 5194 5195 5173 5173 5194 5195 5186 5187 5194 5195 5173 5173 5194 5195 5173 5173 5194 5195 5186 5187 5194 5195 5197 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 5196 5194 5195 5173 5173 5194 5195 5186 5187 5194 5195 5173 5173 5194 5195 5186 5187 5194 5195 5173 5173 5194 5195 5186 5187 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 5192 5193 0 0 0 0 0 0 0 0 0 0 0 5179 0 5179 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 5179 0 0 0 0 0 0 0 0 0 0 0 0 0 5179 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 5188 5189 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 5196 5186 5187 5194 5195 5173 5173 5194 5195
       5173 5173 5188 5189 5186 5187 5188 5189 5173 5173 5188 5189 5186 5187 5197 5197 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 5196 5196 5188 5189 5186 5187 5188 5189 5173 5173 5188 5189 5186 5187 5188 5189 5173 5173 5188 5189 5186 5187 5188 5189 5186 5187 5186 5187 5187 5173 5188 5189 5186 5187 5188 5189 5173 5173 5188 5189 5186 5187 5188 5189 5197 5197 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 5196 5196 5173 5173 5188 5189 5186 5187 5188 5189 5173 5173 5188 5189 5186 5187 5188 5189 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 5173 5173 5186 5187 5186 5187 5186 5187 5186 5187 5186 5187 5186 5187 5193 5173 0 0 0 0 0 0 0 0 0 0 0 5179 0 5179 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 5179 0 0 0 0 0 0 0 0 0 0 0 0 0 5173 5185 5185 5185 5185 5185 5185 5185 5185 5185 5185 5185 5185 5185 5185 5185 5185 5194 5195 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
       5186 5187 5194 5195 5173 5173 5194 5195 5186 5187 5194 5195 5173 5173 5197 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 5196 5194 5195 5173 5173 5194 5195 5186 5187 5194 5195 5173 5173 5194 5195 5186 5187 5194 5195 5173 5173 5194 5195 5173 5197 0 5196 5186 5187 5194 5195 5173 5173 5194 5195 5186 5187 5194 5195 5173 5173 5194 5195 5197 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 5196 5186 5187 5194 5195 5173 5173 5194 5195 5186 5187 5194 5195 5173 5173 5194 5195 5173 5173 5173 5191 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 5188 5189 5173 5186 5187 5186 5187 5186 5187 5186 5187 5186 5187 5186 5187 5197 0 0 0 0 0 0 0 0 0 0 0 5179 0 5179 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 5179 0 0 0 0 0 0 0 0 0 0 0 0 0 5179 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 5173 5173 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
-      5188 5189 5186 5187 5188 5189 5173 5173 5188 5189 5197 5197 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 5196 5196 5188 5189 5186 5187 5188 5189 5173 5173 5188 5189 5186 5187 5188 5189 5173 5173 5188 5189 5197 5197 0 0 0 0 5196 5186 5187 5173 5173 5186 5187 5197 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 5196 5186 5187 5173 5173 5173 5173 5186 5187 5173 5173 5186 5187 5186 5187 5173 5173 5186 5187 5191 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 5194 5195 5186 5187 5197 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 5179 0 5179 0 0 0 0 0 0 0 0 0 5174 5185 5185 5185 5185 5175 0 0 0 0 0 0 0 0 5179 0 0 0 0 0 0 0 0 0 0 0 0 0 5179 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 5186 5187 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
-      5194 5195 5173 5173 5194 5195 5186 5187 5194 5195 5197 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 5196 5194 5195 5173 5173 5194 5195 5186 5187 5194 5195 5173 5173 5194 5195 5186 5187 5194 5195 5197 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 5196 5186 5187 5186 5187 5197 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 5173 5173 5197 0 0 0 0 0 0 0 5174 5185 5185 5185 5185 5185 5185 5185 5185 5185 5185 5185 5185 5185 5185 5185 5185 5173 5185 5173 0 0 0 0 0 0 0 0 5218 5219 5220 0 0 0 5179 0 0 0 0 0 0 0 0 5179 0 0 0 0 0 0 0 0 0 0 0 0 0 5179 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 5188 5189 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
-      5186 5187 5188 5189 5197 5197 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 5196 5196 5173 5173 5188 5189 5186 5187 5188 5189 5197 5197 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 5186 5187 0 0 0 0 0 0 0 0 5179 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 5179 0 0 0 0 0 0 0 0 5215 5216 5217 0 0 0 5179 0 0 0 0 0 0 0 0 5179 0 0 0 0 0 0 0 0 0 0 0 0 0 5179 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 5194 5195 0 0 0 0 5186 5187 5186 5187 5188 5189 5173 5173 5188 5189 5186 5187 5186 5187 5197 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+      5188 5189 5186 5187 5188 5189 5173 5173 5188 5189 5197 5197 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 5196 5196 5188 5189 5186 5187 5188 5189 5173 5173 5188 5189 5186 5187 5188 5189 5173 5173 5188 5189 5197 5197 0 0 0 0 5196 5186 5187 5173 5173 5186 5187 5197 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 5196 5186 5187 5173 5173 5173 5173 5186 5187 5173 5173 5186 5187 5186 5187 5173 5173 5186 5187 5191 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 5170 5171 5171 5172 0 0 0 0 0 0 0 0 0 0 0 0 0 5194 5195 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 5179 0 5179 0 0 0 0 0 0 0 0 0 5174 5185 5185 5185 5185 5175 0 0 0 0 0 0 0 0 5179 0 0 0 0 0 0 0 0 0 0 0 0 0 5179 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 5186 5187 0 0 0 0 0 0 0 0 5170 5171 5172 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+      5194 5195 5173 5173 5194 5195 5186 5187 5194 5195 5197 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 5196 5194 5195 5173 5173 5194 5195 5186 5187 5194 5195 5173 5173 5194 5195 5186 5187 5194 5195 5197 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 5196 5186 5187 5186 5187 5197 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 5176 5177 5177 5178 0 0 0 0 0 0 0 0 0 0 0 0 0 5173 5173 0 0 0 0 0 0 0 0 5174 5185 5185 5185 5185 5185 5185 5185 5185 5185 5185 5185 5185 5185 5185 5185 5185 5173 5185 5173 0 0 0 0 0 0 0 0 5218 5219 5220 0 0 0 5179 0 0 0 0 0 0 0 0 5179 0 0 0 0 0 0 0 0 0 0 0 0 0 5179 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 5188 5189 0 0 0 0 0 0 0 0 5176 5177 5178 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 5170 5171 5172 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+      5186 5187 5188 5189 5197 5197 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 5196 5196 5173 5173 5188 5189 5186 5187 5188 5189 5197 5197 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 5176 5177 5177 5178 0 0 0 0 0 0 0 0 0 0 0 0 0 5186 5187 0 0 0 0 0 0 0 0 5179 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 5179 0 0 0 0 0 0 0 0 5215 5216 5217 0 0 0 5179 0 0 0 0 0 0 0 0 5179 0 0 0 0 0 0 0 0 0 0 0 0 0 5179 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 5194 5195 0 0 0 0 5186 5187 5186 5187 5188 5189 5173 5173 5188 5189 5186 5187 5186 5187 5197 0 0 0 0 0 0 0 0 0 0 0 0 5176 5177 5178 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
       5173 5173 5194 5195 5197 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 5196 5186 5187 5194 5195 5173 5173 5194 5195 5197 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 5233 5234 5234 5234 5234 5234 5235 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 5196 5186 5187 5188 5189 5186 5187 5188 5189 5173 5173 5188 5189 5186 5187 5188 5189 0 0 0 0 5188 5189 0 0 0 0 0 0 0 0 5179 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 5179 0 0 0 0 0 0 0 0 5205 5206 5207 0 0 0 5173 5185 5185 5185 5185 5185 5185 5185 5185 5181 0 0 0 0 0 0 0 0 0 0 0 0 0 5219 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 5186 5187 0 0 0 0 5188 5189 5173 5173 5194 5195 5186 5187 5194 5195 5173 5173 5197 0 0 0 0 0 0 0 0 0 5196 5186 5187 5186 5187 5173 5173 5188 5189 5173 5173 5188 5189 5193 5193 5188 5189 5173 5173 5188 5189 5173 5173 5188
       5168 5168 5168 5168 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 5236 5237 5237 5237 5237 5237 5238 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 5196 5194 5195 5173 5173 5194 5195 5186 5187 5194 5195 5173 5173 5194 5195 0 0 0 0 5194 5195 0 0 0 0 0 0 0 0 5179 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 5179 0 0 0 0 0 0 0 0 5205 5206 5207 5185 5175 0 5179 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 5173 5173 0 0 0 0 5194 5195 5197 5197 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 5196 5173 5173 5192 5173 5194 5195 5173 5173 5194 5195 5173 5173 5194 5195 5186 5187 5194 5195 5186 5187 5194
       5168 5168 5168 5168 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 5236 5237 5237 5237 5237 5237 5238 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 5196 5186 5187 5188 5189 5173 5173 5186 5187 0 0 0 0 5173 5173 0 0 0 0 0 0 0 0 5179 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 5179 0 0 0 0 0 0 0 5174 5212 5213 5214 0 5179 0 5179 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 5188 5189 0 0 0 0 5186 5187 5197 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 5196 5193 5173 5186 5187 5197 0 0 0 0 0 0 0 0 0 0 0 0 0 0
-      5168 5168 5168 5168 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 5236 5237 5237 5237 5237 5237 5238 0 5233 5234 5234 5234 5234 5234 5235 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 5196 5194 5195 5186 5187 5173 5173 0 0 0 0 5186 5187 0 0 0 0 0 0 0 0 5179 0 5168 0 0 5168 0 0 5168 0 5168 0 5168 0 5168 0 5168 0 0 5179 0 0 0 0 0 0 0 5179 5198 5199 5200 0 5179 0 5179 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 5170 5172 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 5194 5195 0 0 0 0 5173 5173 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 5196 5192 5173 5173 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
-      5168 5168 5168 5168 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 5236 5237 5237 5237 5237 5237 5238 0 5236 5237 5237 5237 5237 5237 5238 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 5196 5173 5188 5189 5188 5189 0 0 0 0 5188 5189 5185 5185 5185 5185 5185 5185 5185 5185 5173 0 5168 0 0 5168 0 0 5168 0 5168 0 0 0 5168 0 5168 0 0 5219 0 0 0 0 0 0 0 5179 5205 5206 5207 0 5179 0 5179 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 5176 5178 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 5173 5173 0 0 0 0 5188 5189 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 5193 5188 5189 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
-      5168 5168 5168 5168 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 5233 5234 5234 5234 5234 5234 5235 0 5239 5240 5240 5240 5240 5240 5241 0 5236 5237 5237 5237 5237 5237 5238 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 5174 5185 5185 5185 5185 5185 5185 5185 5185 5185 5186 5187 5188 5189 5173 5173 5186 5187 5197 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 5196 5194 5195 5194 5195 0 0 0 0 5194 5195 0 0 0 0 0 5218 5219 5220 5179 0 0 0 0 0 0 0 5168 5168 5168 0 5168 0 5168 0 5168 0 0 0 0 0 0 0 0 0 0 5179 5212 5213 5214 0 5179 0 5179 0 0 0 5170 5171 5172 0 0 0 0 0 0 0 0 0 0 0 0 5176 5178 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 5186 5187 0 0 0 0 5194 5195 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 5196 5194 5195 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
-      5168 5168 5168 5168 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 5236 5237 5237 5237 5237 5237 5238 0 0 0 0 0 0 0 0 0 5236 5237 5237 5237 5237 5237 5238 0 0 0 0 5196 5186 5187 5186 5187 5188 5189 5186 5187 5188 5189 5173 5173 5173 5191 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 5179 5174 5185 5185 5185 5185 5185 5185 5185 5185 5173 5173 5194 5195 5186 5187 5197 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 5196 5192 5173 5173 0 0 0 0 5186 5187 0 0 0 0 0 5215 5216 5217 5179 0 5168 0 0 5168 0 0 5168 0 5168 0 5168 0 0 0 0 0 0 0 0 0 0 0 0 0 0 5179 5215 5216 5217 0 5179 0 5179 5190 5191 0 5176 5177 5178 0 0 5190 5191 0 0 5190 5191 0 0 5190 5191 5176 5178 5190 5191 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 5188 5189 0 0 0 0 5173 5173 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 5173 5173 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
-      5168 5168 5168 5168 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 5236 5237 5237 5237 5237 5237 5238 0 0 0 0 0 0 0 0 0 5236 5237 5237 5237 5237 5237 5238 0 0 0 0 0 0 5196 5173 5173 5194 5195 5173 5173 5194 5195 5186 5187 5192 5192 5191 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 5196 5186 5187 5188 5189 5173 5173 5188 5189 5186 5187 5188 5189 5185 5185 5181 5179 5174 5185 5185 5185 5185 5185 5185 5185 5181 0 5173 5173 5192 5197 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 5193 5186 5187 0 0 0 0 5173 5173 0 0 0 0 0 5198 5199 5200 5179 0 0 5168 5168 0 0 0 5168 0 5168 0 5168 0 5168 0 5168 0 0 0 5207 5175 0 0 5190 5186 5187 5188 5189 5186 5187 5188 5189 5173 5173 5188 5189 5186 5187 5188 5189 5173 5173 5188 5189 5186 5187 5188 5189 5173 5173 5188 5189 5186 5187 5188 5189 5173 5173 5173 5173 5191 0 0 0 0 0 0 0 0 0 0 0 0 5194 5195 0 0 0 0 5186 5187 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 5186 5187 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
-      5188 5189 5186 5187 5188 5189 5173 5173 5188 5189 5186 5187 5188 5189 5173 5191 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 5188 5189 5186 5187 5188 5189 5173 5173 0 0 0 0 0 0 0 0 0 0 0 0 5186 5187 5186 5187 5173 5197 0 0 0 0 0 5236 5237 5237 5237 5237 5237 5238 0 0 0 0 0 0 0 0 0 5239 5240 5240 5240 5240 5240 5241 0 0 0 0 0 0 0 0 5196 5173 5173 5188 5189 5173 5173 5188 5189 5193 5193 5188 5189 5188 5189 5188 5189 5186 5187 5197 0 0 0 0 0 0 0 0 5196 5196 5194 5195 5186 5187 5194 5195 5173 5173 5194 5195 5185 5185 5185 5181 5179 0 0 0 0 0 0 0 0 0 5186 5187 5193 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 5196 5188 5189 0 0 0 0 5188 5189 0 0 0 0 0 5205 5206 5207 5181 0 0 0 0 0 0 0 0 0 0 0 0 5170 5172 0 0 0 0 0 0 0 0 5190 5188 5189 5173 5194 5195 5173 5173 5194 5195 5186 5187 5194 5195 5173 5173 5194 5195 5186 5187 5194 5195 5173 5173 5194 5195 5186 5187 5194 5195 5173 5173 5194 5195 5186 5187 5173 5188 5189 5191 0 0 0 0 0 0 0 0 0 0 0 5186 5187 0 0 0 0 5188 5189 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 5188 5189 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
-      5194 5195 5173 5173 5194 5195 5186 5187 5194 5195 5173 5173 5194 5195 5173 5173 5191 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 5194 5195 5173 5173 5194 5195 5186 5187 0 0 0 0 0 0 0 0 0 0 0 0 5173 5173 5197 5197 0 0 0 0 0 0 0 5236 5237 5237 5237 5237 5237 5238 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 5192 5173 5194 5195 5173 5173 5194 5195 5173 5173 5194 5195 5194 5195 5194 5195 5197 0 0 0 0 0 0 0 0 0 0 0 5196 5192 5186 5187 0 0 0 0 0 0 5180 5185 5185 5185 5185 5181 0 0 0 0 0 0 0 0 0 5188 5189 5197 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 5194 5195 0 0 0 0 5194 5195 0 0 0 0 0 5212 5213 5214 0 0 0 0 0 0 0 0 0 0 0 0 0 5176 5178 0 0 0 5215 0 0 0 5190 5173 5194 5195 5197 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 5196 5194 5195 5173 5191 0 0 0 0 0 0 0 0 0 0 5173 5173 0 0 0 0 5194 5195 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 5194 5195 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
-      0 0 0 0 0 0 0 0 0 0 0 0 0 5196 5186 5187 5188 5189 5186 5187 5188 5189 5173 5173 5188 5189 5186 5187 5188 5189 0 0 0 0 0 0 0 0 0 0 5186 5187 5197 0 0 5196 5188 5189 0 0 0 0 0 0 0 0 0 0 0 0 5173 5173 5197 0 0 0 0 0 0 0 0 5239 5240 5240 5240 5240 5240 5241 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 5193 5173 5186 5187 5197 0 0 0 0 5196 5186 5187 5192 5173 5197 0 0 0 0 0 0 0 0 0 0 0 0 0 0 5193 5173 5173 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 5194 5195 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 5186 5187 0 0 0 0 5173 5173 0 0 5174 5185 5185 5198 5199 5200 0 0 0 0 0 0 0 0 0 0 0 0 0 5176 5178 0 0 0 0 0 0 5190 5173 5173 5173 5197 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 5196 5173 5173 5173 5191 0 0 0 0 0 0 0 0 0 5188 5189 0 0 0 0 5186 5187 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 5186 5187 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
-      0 0 0 0 0 0 0 0 0 0 0 0 0 0 5196 5173 5194 5195 5173 5173 5194 5195 5186 5187 5194 5195 5173 5173 5194 5195 0 0 0 0 0 0 0 0 0 0 5173 5173 0 0 0 0 5194 5195 5201 5201 5201 5201 5201 5201 5201 5201 5201 5201 5201 5201 5173 5173 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 5196 5192 5173 5173 0 0 0 0 0 0 5173 5173 5193 5173 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 5196 5192 5188 5189 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 5186 5187 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 5173 5173 0 0 0 0 5186 5187 0 0 5179 0 0 5205 5206 5207 0 0 0 0 0 0 5190 5191 0 0 5190 5191 0 5176 5178 5190 5191 0 5190 5191 5190 5188 5189 5173 5197 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 5196 5173 5188 5189 5191 5190 5191 0 0 5190 5191 0 0 5194 5195 0 0 0 0 5173 5173 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 5173 5173 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
-      0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 5196 5173 5186 5187 0 0 0 0 0 0 0 0 0 0 5188 5189 0 0 0 0 5196 5196 5188 5189 5186 5187 5188 5189 5173 5173 5188 5189 5186 5187 5197 5197 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 5193 5188 5189 0 0 0 0 0 0 5188 5189 5192 5197 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 5193 5194 5195 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 5173 5173 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 5188 5189 0 0 0 0 5188 5189 5191 0 5179 5170 5172 5215 5216 5217 5175 0 0 5190 5186 5187 5188 5189 5186 5187 5188 5189 5173 5173 5188 5189 5186 5187 5188 5189 5173 5194 5195 5197 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 5196 5194 5195 5173 5188 5189 5186 5187 5188 5189 5173 5173 5173 5173 0 0 0 0 5188 5189 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 5188 5189 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
-      0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 5196 5173 5173 0 0 0 0 0 0 0 0 0 0 5194 5195 0 0 0 0 0 5196 5194 5195 5173 5173 5194 5195 5186 5187 5194 5195 5173 5173 5197 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 5196 5194 5195 0 0 0 0 0 0 5194 5195 5193 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 5196 5173 5173 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 5188 5189 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 5194 5195 0 0 0 0 5194 5195 5191 5191 5179 5176 5178 5198 5199 5200 5179 5191 5190 5188 5189 5173 5194 5195 5173 5173 5194 5195 5186 5187 5194 5195 5173 5173 5194 5195 5173 5173 5197 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 5196 5173 5173 5194 5195 5173 5173 5194 5195 5173 5188 5189 5173 0 0 0 0 5194 5195 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 5194 5195 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
-      0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 5188 5189 0 0 0 0 0 0 0 0 0 0 5173 5173 0 0 0 0 0 0 0 0 0 0 0 0 0 0 5173 5173 5197 5197 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 5173 5173 0 0 0 0 0 0 5173 5173 5197 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 5186 5187 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 5194 5195 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 5173 5173 0 0 0 0 5186 5187 5188 5189 5173 5173 5188 5189 5186 5187 5188 5189 5173 5194 5195 5197 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 5196 5186 5187 5197 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 5196 5194 5195 5173 0 0 0 0 5173 5173 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 5173 5173 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
-      0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 5194 5195 0 0 0 0 0 0 0 0 0 0 5186 5187 0 0 0 0 0 0 0 0 0 0 0 0 0 0 5186 5187 5197 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 5186 5187 0 0 0 0 0 0 5186 5187 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 5188 5189 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 5173 5173 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 5186 5187 0 0 0 0 5173 5173 5194 5195 5186 5187 5194 5195 5173 5173 5194 5195 5173 5173 5197 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 5173 5173 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 5196 5173 5173 0 0 0 0 5186 5187 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 5186 5187 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+      5168 5168 5168 5168 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 5236 5237 5237 5237 5237 5237 5238 0 5233 5234 5234 5234 5234 5234 5235 0 0 0 0 0 0 0 0 0 5170 5171 5172 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 5170 5171 5172 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 5196 5194 5195 5186 5187 5173 5173 0 0 0 0 5186 5187 0 0 0 0 0 0 0 0 5179 0 5168 0 0 5168 0 0 5168 0 5168 0 5168 0 5168 0 5168 0 0 5179 0 0 0 0 0 0 0 5179 5198 5199 5200 0 5179 0 5179 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 5170 5172 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 5194 5195 0 0 0 0 5173 5173 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 5196 5192 5173 5173 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+      5168 5168 5168 5168 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 5236 5237 5237 5237 5237 5237 5238 0 5236 5237 5237 5237 5237 5237 5238 0 0 0 0 0 0 0 0 0 5176 5177 5178 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 5176 5177 5178 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 5196 5173 5188 5189 5188 5189 0 0 0 0 5188 5189 5185 5185 5185 5185 5185 5185 5185 5185 5173 0 5168 0 0 5168 0 0 5168 0 5168 0 0 0 5168 0 5168 0 0 5219 0 0 0 0 0 0 0 5179 5205 5206 5207 0 5179 0 5179 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 5176 5178 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 5173 5173 0 0 0 0 5188 5189 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 5193 5188 5189 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+      5168 5168 5168 5168 0 0 0 0 0 5170 5171 5171 5172 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 5170 5171 5172 0 0 0 0 0 0 0 5233 5234 5234 5234 5234 5234 5235 0 5239 5240 5240 5240 5240 5240 5241 0 5236 5237 5237 5237 5237 5237 5238 0 0 0 0 0 0 0 0 0 5176 5177 5178 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 5170 5171 5172 0 0 5174 5185 5185 5185 5185 5185 5185 5185 5185 5185 5186 5187 5188 5189 5173 5173 5186 5187 5197 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 5196 5194 5195 5194 5195 0 0 0 0 5194 5195 0 0 0 0 0 5218 5219 5220 5179 0 0 0 0 0 0 0 5168 5168 5168 0 5168 0 5168 0 5168 0 0 0 0 0 0 0 0 0 0 5179 5212 5213 5214 0 5179 0 5179 0 0 0 5170 5171 5172 0 0 0 0 0 0 0 0 0 0 0 0 5176 5178 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 5186 5187 0 0 0 0 5194 5195 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 5196 5194 5195 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+      5168 5168 5168 5168 0 0 0 0 0 5176 5177 5177 5178 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 5176 5177 5178 0 0 0 0 0 0 0 5236 5237 5237 5237 5237 5237 5238 0 0 0 0 0 0 0 0 0 5236 5237 5237 5237 5237 5237 5238 0 0 0 0 5196 5186 5187 5186 5187 5188 5189 5186 5187 5188 5189 5173 5173 5173 5191 0 0 0 5170 5171 5172 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 5176 5177 5178 0 0 5179 5174 5185 5185 5185 5185 5185 5185 5185 5185 5173 5173 5194 5195 5186 5187 5197 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 5196 5192 5173 5173 0 0 0 0 5186 5187 0 0 0 0 0 5215 5216 5217 5179 0 5168 0 0 5168 0 0 5168 0 5168 0 5168 0 0 0 0 0 0 0 0 0 0 0 0 0 0 5179 5215 5216 5217 0 5179 0 5179 5190 5191 0 5176 5177 5178 0 0 5190 5191 0 0 5190 5191 0 0 5190 5191 5176 5178 5190 5191 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 5188 5189 0 0 0 0 5173 5173 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 5173 5173 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+      5168 5168 5168 5168 0 0 0 0 0 5176 5177 5177 5178 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 5170 5172 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 5176 5177 5178 0 0 0 0 0 0 0 5236 5237 5237 5237 5237 5237 5238 0 0 0 0 0 0 0 0 0 5236 5237 5237 5237 5237 5237 5238 0 0 0 0 0 0 5196 5173 5173 5194 5195 5173 5173 5194 5195 5186 5187 5192 5192 5191 0 0 5176 5177 5178 0 0 0 0 0 0 0 0 0 0 5196 5186 5187 5188 5189 5173 5173 5188 5189 5186 5187 5188 5189 5185 5185 5181 5179 5174 5185 5185 5185 5185 5185 5185 5185 5181 0 5173 5173 5192 5197 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 5193 5186 5187 0 0 0 0 5173 5173 0 0 0 0 0 5198 5199 5200 5179 0 0 5168 5168 0 0 0 5168 0 5168 0 5168 0 5168 0 5168 0 0 0 5207 5175 0 0 5190 5186 5187 5188 5189 5186 5187 5188 5189 5173 5173 5188 5189 5186 5187 5188 5189 5173 5173 5188 5189 5186 5187 5188 5189 5173 5173 5188 5189 5186 5187 5188 5189 5173 5173 5173 5173 5191 0 0 0 0 0 0 0 0 0 0 0 0 5194 5195 0 0 0 0 5186 5187 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 5186 5187 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+      5188 5189 5186 5187 5188 5189 5173 5173 5188 5189 5186 5187 5188 5189 5173 5191 0 5170 5171 5172 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 5188 5189 5186 5187 5188 5189 5173 5173 0 0 0 0 0 0 0 0 0 0 0 0 5186 5187 5186 5187 5173 5197 0 0 0 0 0 5236 5237 5237 5237 5237 5237 5238 0 0 0 0 0 0 0 0 0 5239 5240 5240 5240 5240 5240 5241 0 0 0 0 0 0 0 0 5196 5173 5173 5188 5189 5173 5173 5188 5189 5193 5193 5188 5189 5188 5189 5188 5189 5186 5187 5197 0 0 0 0 0 0 0 0 5196 5196 5194 5195 5186 5187 5194 5195 5173 5173 5194 5195 5185 5185 5185 5181 5179 0 0 0 0 0 0 0 0 0 5186 5187 5193 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 5196 5188 5189 0 0 0 0 5188 5189 0 0 0 0 0 5205 5206 5207 5181 0 0 0 0 0 0 0 0 0 0 0 0 5170 5172 0 0 0 0 0 0 0 0 5190 5188 5189 5173 5194 5195 5173 5173 5194 5195 5186 5187 5194 5195 5173 5173 5194 5195 5186 5187 5194 5195 5173 5173 5194 5195 5186 5187 5194 5195 5173 5173 5194 5195 5186 5187 5173 5188 5189 5191 0 0 0 0 0 0 0 0 0 0 0 5186 5187 0 0 0 0 5188 5189 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 5188 5189 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+      5194 5195 5173 5173 5194 5195 5186 5187 5194 5195 5173 5173 5194 5195 5173 5173 5191 5176 5177 5178 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 5194 5195 5173 5173 5194 5195 5186 5187 0 0 0 0 0 0 0 0 0 0 0 0 5173 5173 5197 5197 0 0 0 0 0 0 0 5236 5237 5237 5237 5237 5237 5238 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 5192 5173 5194 5195 5173 5173 5194 5195 5173 5173 5194 5195 5194 5195 5194 5195 5197 0 0 0 0 0 0 0 0 0 0 0 5196 5192 5186 5187 0 0 0 0 0 0 5180 5185 5185 5185 5185 5181 0 0 0 0 0 0 0 0 0 5188 5189 5197 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 5194 5195 0 0 0 0 5194 5195 0 0 0 0 0 5212 5213 5214 0 0 0 0 0 0 0 0 0 0 0 0 0 5176 5178 0 0 0 5215 0 0 0 5190 5173 5194 5195 5197 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 5196 5194 5195 5173 5191 0 0 0 0 0 0 0 0 0 0 5173 5173 0 0 0 0 5194 5195 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 5194 5195 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+      0 0 0 0 0 0 0 0 0 0 0 0 0 5196 5186 5187 5188 5189 5186 5187 5188 5189 5173 5173 5188 5189 5186 5187 5188 5189 0 0 0 0 0 0 0 0 0 0 5186 5187 5197 0 0 5196 5188 5189 0 0 0 0 0 0 0 0 0 0 0 0 5173 5173 5197 0 0 0 0 0 0 0 0 5239 5240 5240 5240 5240 5240 5241 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 5193 5173 5186 5187 5197 0 0 0 0 5196 5186 5187 5192 5173 5197 0 0 0 0 0 0 0 0 0 0 0 0 0 0 5193 5173 5173 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 5194 5195 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 5186 5187 0 0 0 0 5173 5173 0 0 5174 5185 5185 5198 5199 5200 0 0 0 0 0 0 5190 5191 0 0 5190 5191 0 5176 5178 5190 5191 0 5190 5191 0 5190 5173 5173 5173 5197 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 5196 5173 5173 5173 5191 0 0 0 0 0 0 0 0 0 5188 5189 0 0 0 0 5186 5187 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 5186 5187 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+      0 0 0 0 0 0 0 0 0 0 0 0 0 0 5196 5173 5194 5195 5173 5173 5194 5195 5186 5187 5194 5195 5173 5173 5194 5195 0 0 0 0 0 0 0 0 0 0 5173 5173 0 0 0 0 5194 5195 5201 5201 5201 5201 5201 5201 5201 5201 5201 5201 5201 5201 5173 5173 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 5196 5192 5173 5173 0 0 0 0 0 0 5173 5173 5193 5173 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 5196 5192 5188 5189 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 5186 5187 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 5173 5173 0 0 0 0 5186 5187 0 0 5179 0 0 5205 5206 5207 0 0 0 0 5190 5173 5188 5189 5186 5187 5188 5189 5173 5173 5188 5189 5186 5187 5188 5189 5173 5188 5189 5173 5197 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 5196 5173 5188 5189 5191 5190 5191 0 0 5190 5191 0 0 5194 5195 0 0 0 0 5173 5173 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 5173 5173 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+      0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 5196 5173 5186 5187 0 0 0 0 0 0 0 0 0 0 5188 5189 0 0 0 0 5196 5196 5188 5189 5186 5187 5188 5189 5173 5173 5188 5189 5186 5187 5197 5197 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 5193 5188 5189 0 0 0 0 0 0 5188 5189 5192 5197 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 5193 5194 5195 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 5173 5173 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 5188 5189 0 0 0 0 5188 5189 5191 0 5179 5170 5172 5215 5216 5217 5175 0 0 5190 5186 5187 5194 5195 5173 5173 5194 5195 5186 5187 5194 5195 5173 5173 5194 5195 5173 5194 5195 5197 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 5196 5194 5195 5173 5188 5189 5186 5187 5188 5189 5173 5173 5188 5189 0 0 0 0 5188 5189 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 5188 5189 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+      0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 5196 5173 5173 0 0 0 0 0 0 0 0 0 0 5194 5195 0 0 0 0 0 5196 5194 5195 5173 5173 5194 5195 5186 5187 5194 5195 5173 5173 5197 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 5196 5194 5195 0 0 0 0 0 0 5194 5195 5193 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 5196 5173 5173 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 5188 5189 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 5194 5195 0 0 0 0 5194 5195 5191 5191 5179 5176 5178 5198 5199 5200 5179 5191 5190 5188 5189 5173 5197 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 5196 5173 5173 5194 5195 5173 5173 5194 5195 5186 5187 5194 5195 0 0 0 0 5194 5195 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 5194 5195 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+      0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 5188 5189 0 0 0 0 0 0 0 0 0 0 5173 5173 0 0 0 0 0 0 0 0 0 0 0 0 0 0 5173 5173 5197 5197 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 5173 5173 0 0 0 0 0 0 5173 5173 5197 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 5186 5187 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 5194 5195 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 5173 5173 0 0 0 0 5186 5187 5188 5189 5173 5173 5188 5189 5186 5187 5188 5189 5173 5194 5195 5197 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 5196 5186 5187 5197 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 5173 5173 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 5173 5173 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+      0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 5194 5195 0 0 0 0 0 0 0 0 0 0 5186 5187 0 0 0 0 0 0 0 0 0 0 0 0 0 0 5186 5187 5197 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 5186 5187 0 0 0 0 0 0 5186 5187 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 5188 5189 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 5173 5173 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 5186 5187 0 0 0 0 5173 5173 5194 5195 5186 5187 5194 5195 5173 5173 5194 5195 5173 5173 5197 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 5173 5173 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 5186 5187 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 5186 5187 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
       0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 5173 5173 0 0 0 0 0 0 0 0 0 0 5188 5189 0 0 0 0 0 0 0 0 0 0 0 0 0 0 5188 5189 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 5188 5189 0 0 0 0 0 0 5188 5189 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 5194 5195 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 5186 5187 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 5188 5189 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 5188 5189 0 0 0 0 0 0 0 0 0 0 0 0 0 0 5188 5189 0 0 0 0 0 0 0 0 0 0 0 0 0 0 5188 5189 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 5188 5189 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 5188 5189 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
-      0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 5186 5187 0 0 0 0 0 0 0 0 0 0 5194 5195 0 0 0 0 0 0 0 0 0 0 0 0 0 0 5194 5195 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 5194 5195 0 0 0 0 0 0 5194 5195 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 5186 5187 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 5188 5189 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 5194 5195 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 5173 5194 5195 0 0 0 0 0 0 0 0 0 0 0 0 0 0 5194 5195 0 0 0 0 0 0 0 0 0 0 0 0 0 0 5194 5195 5173 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 5194 5195 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 5194 5195 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
-      0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 5188 5189 0 0 0 0 0 0 0 0 0 0 5186 5187 0 0 0 0 0 0 0 0 0 0 0 0 0 0 5186 5187 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 5186 5187 0 0 0 0 0 0 5186 5187 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 5173 5173 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 5194 5195 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 5190 5186 5187 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 5188 5189 5188 5189 0 0 0 0 0 0 0 0 0 0 0 0 0 0 5186 5187 0 0 0 0 0 0 0 0 0 0 0 0 0 0 5188 5189 5188 5189 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 5186 5187 5191 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 5186 5187 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
-      0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 5194 5195 0 0 0 0 0 0 0 0 0 0 5173 5173 0 0 0 0 0 0 0 0 0 0 0 0 0 0 5173 5173 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 5173 5173 0 0 0 0 0 0 5173 5173 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 5188 5189 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 5186 5187 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 5192 5173 5173 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 5173 5194 5195 5194 5195 0 0 0 0 0 0 0 0 0 0 0 0 0 0 5173 5173 0 0 0 0 0 0 0 0 0 0 0 0 0 0 5194 5195 5194 5195 5173 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 5173 5173 5192 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 5173 5173 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+      0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 5186 5187 0 0 0 0 0 0 0 0 0 0 5194 5195 0 0 0 0 0 0 0 0 0 0 0 0 0 0 5194 5195 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 5194 5195 0 0 0 0 0 0 5194 5195 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 5186 5187 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 5188 5189 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 5194 5195 0 0 0 0 5170 5171 5171 5172 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 5173 5194 5195 0 0 0 0 0 0 0 0 0 0 0 0 0 0 5194 5195 0 0 0 0 0 0 0 0 0 0 0 0 0 0 5194 5195 5173 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 5170 5171 5172 0 5194 5195 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 5194 5195 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+      0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 5188 5189 0 0 0 0 0 0 0 0 0 0 5186 5187 0 0 0 0 0 0 0 0 0 0 0 0 0 0 5186 5187 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 5186 5187 0 0 0 0 0 0 5186 5187 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 5173 5173 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 5194 5195 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 5190 5186 5187 0 0 0 0 5176 5177 5177 5178 0 0 0 0 0 0 0 0 0 5170 5171 5172 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 5188 5189 5188 5189 0 0 0 0 0 0 0 0 0 0 0 0 0 0 5186 5187 0 0 0 0 0 0 0 0 0 0 0 0 0 0 5188 5189 5188 5189 0 0 0 5170 5172 0 0 0 0 0 0 0 0 0 5176 5177 5178 0 5186 5187 5191 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 5186 5187 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+      0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 5194 5195 0 0 0 0 0 0 0 0 0 0 5173 5173 0 0 0 0 0 0 0 0 0 0 0 0 0 0 5173 5173 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 5173 5173 0 0 0 0 0 0 5173 5173 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 5188 5189 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 5186 5187 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 5192 5173 5173 0 0 0 0 5176 5177 5177 5178 0 0 0 0 0 0 0 0 0 5176 5177 5178 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 5173 5194 5195 5194 5195 0 0 0 0 0 0 0 0 0 0 0 0 0 0 5173 5173 0 0 0 0 0 0 0 0 0 0 0 0 0 0 5194 5195 5194 5195 5173 0 0 5176 5178 0 0 0 0 0 0 0 0 0 5176 5177 5178 0 5173 5173 5192 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 5173 5173 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
       0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 5186 5187 0 0 0 0 0 0 0 0 0 0 5188 5189 0 0 0 0 0 0 0 0 0 0 0 0 0 0 5188 5189 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 5188 5189 0 0 0 0 0 0 5188 5189 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 5194 5195 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 5173 5173 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 5190 5193 5188 5189 5186 5187 5188 5189 5173 5173 5188 5189 5186 5187 5203 5201 5201 5204 5173 5192 5186 5187 5188 5189 5173 5173 5188 5189 5186 5187 5188 5189 5173 5173 5188 5189 5186 5187 5188 5189 5173 5173 5188 5189 5186 5187 0 0 0 0 0 0 0 0 0 0 0 0 0 0 5188 5189 0 0 0 0 0 0 0 0 0 0 0 0 0 0 5186 5187 5188 5189 5173 5173 5188 5189 5173 5173 5188 5189 5186 5187 5188 5189 5173 5173 5188 5189 5186 5187 5188 5189 5193 5191 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 5188 5189 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
       0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 5173 5173 0 0 0 0 0 0 0 0 0 0 5194 5195 0 0 0 0 0 0 0 0 0 0 0 0 0 0 5194 5195 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 5194 5195 0 0 0 0 0 0 5194 5195 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 5173 5173 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 5188 5189 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 5192 5173 5194 5195 5173 5173 5194 5195 5186 5187 5194 5195 5173 5173 5173 5173 5186 5187 5173 5193 5173 5173 5194 5195 5186 5187 5194 5195 5173 5173 5194 5195 5186 5187 5194 5195 5173 5173 5194 5195 5186 5187 5194 5195 5173 5173 0 0 0 0 0 0 0 0 0 0 0 0 0 0 5194 5195 0 0 0 0 0 0 0 0 0 0 0 0 0 0 5173 5173 5194 5195 5186 5187 5194 5195 5186 5187 5194 5195 5173 5173 5194 5195 5186 5187 5194 5195 5173 5173 5194 5195 5173 5192 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 5194 5195 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
       0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 5188 5189 0 0 0 0 0 0 0 0 0 0 5173 5173 0 0 0 0 0 0 0 0 0 0 0 0 0 0 5173 5173 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 5173 5173 0 0 0 0 0 0 5173 5173 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 5186 5187 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 5194 5195 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 5190 5193 5173 5173 5173 5197 5197 5196 5197 5179 0 5196 5197 0 0 5196 5197 0 0 5196 5197 0 5179 5196 5197 0 0 5196 5197 0 0 5196 5197 0 0 5196 5197 0 0 5196 5197 5179 0 0 0 5188 5189 0 0 0 0 0 0 0 0 0 0 0 0 0 0 5173 5173 0 0 0 0 0 0 0 0 0 0 0 0 0 0 5188 5189 0 0 0 0 0 0 0 0 5179 0 0 0 0 0 0 0 0 0 5196 5196 5173 5173 5173 5193 5191 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 5173 5173 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
@@ -1652,15 +1557,15 @@ level_card()")
     )
     (tilemap
       (solid #f)
-      (tint 0.4245616 0.4245616 0.4245615)
+      (tint 0.5335081 0.5335078 0.5335078)
       (z-pos 110)
       (name "jimmy")
       (width 340)
       (height 43)
       (tiles
       0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
-      0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 5186 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
-      0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 5173 5173 5194 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+      0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+      0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
       0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 5186 5187 5173 5173 5188 5189 5173 5173 5173 5173 5188 5189 5186 5187 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
       0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 5173 5173 5186 5187 5194 5195 5186 5187 5186 5187 5194 5195 5173 5173 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
       0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 5173 5173 5188 5189 5186 5187 5188 5189 5186 5187 5173 5173 5188 5189 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
@@ -1672,8 +1577,8 @@ level_card()")
       0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 5186 5187 5188 5189 5186 5187 5188 5189 5186 5187 5173 5173 5188 5189 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
       0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 5173 5173 5194 5195 5173 5173 5194 5195 5173 5173 5186 5187 5194 5195 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
       0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 5188 5189 5173 5173 5173 5173 5173 5173 5188 5189 5186 5187 5173 5173 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
-      0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 5194 5195 5186 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
-      0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 5188 5189 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+      0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+      0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
       0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
       0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
       0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
@@ -1786,23 +1691,74 @@ level_card()")
       0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 5198 5199 5200 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 5179 0 5179 0 0 0 0 0 0 0 0 0 5205 5206 5207 0 5179 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
       0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 5205 5206 5185 5175 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 5170 5171 5172 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
       0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 5185 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 5212 5213 5214 5179 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 5176 5177 5178 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
-      0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 5174 5185 5216 5217 5179 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 5177 5178 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
-      0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 5179 5198 5199 5200 5179 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 5177 5178 0 0 0 5174 5175 0 0 5170 5171 5172 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
-      0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 5174 5175 0 0 0 0 0 0 0 5179 5205 5206 5207 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 5179 5179 0 0 5176 5177 5178 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
-      0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 5174 5175 0 0 0 0 0 0 0 0 0 0 0 0 0 0 5212 5213 5214 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+      0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 5170 5171 5172 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 5174 5185 5216 5217 5179 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 5177 5178 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+      0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 5176 5177 5178 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 5179 5198 5199 5200 5179 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 5177 5178 0 0 0 5174 5175 0 0 5170 5171 5172 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+      0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 5176 5177 5178 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 5174 5175 0 0 0 0 0 0 0 5179 5205 5206 5207 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 5179 5179 0 0 5176 5177 5178 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+      0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 5176 5177 5178 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 5174 5175 0 0 0 0 0 0 0 0 0 0 0 0 0 0 5212 5213 5214 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
       0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 5179 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
-      0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
-      0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
-      0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
-      0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
-      0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
-      0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+      0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 5218 5219 5220 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+      0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 5215 5216 5217 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 5218 5219 5220 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+      0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 5198 5199 5200 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 5215 5216 5217 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+      0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 5205 5206 5207 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 5198 5199 5200 5175 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+      0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 5174 5212 5213 5214 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 5205 5206 5207 5179 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+      0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 5179 5198 5199 5200 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 5174 5212 5213 5214 5179 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
       0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
       0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
       0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
       0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
       0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
       0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 5185 0 5185 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+      )
+    )
+    (tilemap
+      (solid #f)
+      (z-pos -3)
+      (width 340)
+      (height 43)
+      (tiles
+      0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+      0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+      0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+      0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+      0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+      0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+      0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+      0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+      0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+      0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+      0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+      0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+      0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 5170 5171 5172 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+      0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 5176 5177 5178 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+      0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+      0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+      0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+      0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+      0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+      0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+      0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+      0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+      0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+      0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+      0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+      0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+      0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+      0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+      0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+      0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+      0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+      0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+      0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+      0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+      0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 5185 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+      0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 5185 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+      0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 5185 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+      0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+      0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+      0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+      0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+      0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+      0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
       )
     )
   )
