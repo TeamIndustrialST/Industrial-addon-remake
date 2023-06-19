@@ -27,7 +27,38 @@ sector.level_card <- function(speed = 15) {
 		wait(0.01)
 	}
 	//display("funny part 2")
+	sector.title_card.set_pos(Camera.get_screen_width() * -1, 0)
 	end_cutscene()
+}
+
+sector.other_hud_elements <- function(speed = 15) {
+	if(!("new_ratio" in sector)) sector.new_ratio <- [Camera.get_screen_width(), Camera.get_screen_height()]
+
+	sector.hud_lives <- FloatingImage("res/industrial/gfx-misc/hud_lives.png")
+	sector.hud_lives.set_layer(998)
+	sector.hud_lives.set_anchor_point(ANCHOR_BOTTOM_LEFT)
+	sector.hud_lives.set_pos((sector.new_ratio[0] / 2), -100)
+	sector.hud_lives.set_visible(true)
+
+	sector.Text.set_text("0000")
+	sector.Text.set_anchor_point(ANCHOR_TOP_LEFT)
+	sector.Text.set_pos(Camera.get_screen_width() - (sector.new_ratio[0] / 4) - 80, 5)
+
+	sector.Text.set_back_fill_color(0, 0, 0, 0)
+	sector.Text.set_front_fill_color(0, 0, 0, 0)
+	//sector.Text.set_font("res/industrial/gfx-fonts/SuperTux-16bit.ttf")
+	sector.Text.set_visible(true)
+
+	sector.hud_coins <- FloatingImage("res/industrial/gfx-obj/16-bit objects/coin/coin.sprite")
+	sector.hud_coins.set_layer(998)
+	sector.hud_coins.set_anchor_point(ANCHOR_TOP_LEFT)
+	sector.hud_coins.set_pos(sector.Text.get_pos_x() - 32, 10)
+	sector.hud_coins.set_visible(true)
+
+	while(true) {
+		sector.Text.set_text("x " + sector.Tux.get_coins())
+		wait(0.01)
+	}
 }
 
 sector.change_screen_ratio <- function(x, y) {
