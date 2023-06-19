@@ -1,13 +1,13 @@
 //import("res/industrial/scripts/util.nut")
 
-sector.level_card <- function(speed = 15) {
+sector.level_card <- function(speed = 15, offset_y = -203) {
 	if(!("new_ratio" in sector)) sector.new_ratio <- [Camera.get_screen_width(), Camera.get_screen_height()]
 
 	start_cutscene()
 
 	sector.title_card <- FloatingImage("res/industrial/gfx-misc/title_card.png")
 	sector.title_card.set_layer(999)
-	sector.title_card.set_anchor_point(ANCHOR_RIGHT)
+	sector.title_card.set_anchor_point(ANCHOR_TOP_RIGHT)
 	sector.title_card.set_pos(Camera.get_screen_width() * -1, 0)
 	sector.title_card.set_visible(true)
 
@@ -15,19 +15,18 @@ sector.level_card <- function(speed = 15) {
 	sector.darkness_thread.call(1.5)
 
 	while(true) {
-		sector.title_card.set_pos(sector.title_card.get_pos_x() + speed, 0)
+		sector.title_card.set_pos(sector.title_card.get_pos_x() + speed, (Camera.get_screen_height() / 2) + offset_y)
 		if(sector.title_card.get_pos_x() >= (sector.new_ratio[0] / 2) * -1) break
 		wait(0.01)
 	}
 	//display("funny part 1")
 	wait(2)
 	while(true) {
-		sector.title_card.set_pos(sector.title_card.get_pos_x() - speed, 0)
+		sector.title_card.set_pos(sector.title_card.get_pos_x() - speed, (Camera.get_screen_height() / 2) + offset_y)
 		if(sector.title_card.get_pos_x() <= Camera.get_screen_width() * -1) break
 		wait(0.01)
 	}
 	//display("funny part 2")
-	sector.title_card.set_pos(Camera.get_screen_width() * -1, 0)
 	end_cutscene()
 }
 
