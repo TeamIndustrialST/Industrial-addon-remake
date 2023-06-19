@@ -4,6 +4,7 @@ sector.level_card <- function(speed = 15, offset_y = -203) {
 	if(!("new_ratio" in sector)) sector.new_ratio <- [Camera.get_screen_width(), Camera.get_screen_height()]
 
 	start_cutscene()
+	Tux.deactivate()
 
 	sector.title_card <- FloatingImage("res/industrial/gfx-misc/title_card.png")
 	sector.title_card.set_layer(999)
@@ -14,20 +15,24 @@ sector.level_card <- function(speed = 15, offset_y = -203) {
 	sector.darkness_thread <- newthread(sector.cover_in_darkness)
 	sector.darkness_thread.call(1.5)
 
-	while(true) {
-		sector.title_card.set_pos(sector.title_card.get_pos_x() + speed, (Camera.get_screen_height() / 2) + offset_y)
-		if(sector.title_card.get_pos_x() >= (sector.new_ratio[0] / 2) * -1) break
-		wait(0.01)
-	}
-	//display("funny part 1")
+	//sector.title_card_thread <- newthread(function() {
+		while(true) {
+			sector.title_card.set_pos(sector.title_card.get_pos_x() + speed, (Camera.get_screen_height() / 2) + offset_y)
+			if(sector.title_card.get_pos_x() >= (sector.new_ratio[0] / 2) * -1) break
+			wait(0.01)
+		}
+	//})
 	wait(2)
-	while(true) {
-		sector.title_card.set_pos(sector.title_card.get_pos_x() - speed, (Camera.get_screen_height() / 2) + offset_y)
-		if(sector.title_card.get_pos_x() <= Camera.get_screen_width() * -1) break
-		wait(0.01)
-	}
-	//display("funny part 2")
+	Tux.activate()
 	end_cutscene()
+	//sector.title_card_thread <- newthread(function() {
+		while(true) {
+			sector.title_card.set_pos(sector.title_card.get_pos_x() - speed, (Camera.get_screen_height() / 2) + offset_y)
+			if(sector.title_card.get_pos_x() <= Camera.get_screen_width() * -1) break
+			wait(0.01)
+		}
+	//})
+	//sector.title_card <- Camera.get_screen_width() * -1
 }
 
 sector.other_hud_elements <- function(speed = 15) {
