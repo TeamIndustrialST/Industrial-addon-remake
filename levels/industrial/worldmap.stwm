@@ -23,6 +23,7 @@
     )
     (level
       (level "forest-s.stl")
+      (sprite "/images/worldmap/common/bonusdot.sprite")
       (x 18)
       (y 28)
     )
