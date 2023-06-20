@@ -23,18 +23,4 @@
   (name "squished-right")
   (hitbox 8 8 32 32)
   (mirror-action "squished-left"))
-  
- (action
-  (name "melting-left")
-  (fps 20)
-  (hitbox 8 8 32 32)
-  (images "melting-0.png"
-          "melting-1.png"
-          "melting-2.png"))
-
- (action
-  (name "melting-right")
-  (fps 20)
-  (hitbox 8 8 32 32)
-  (mirror-action "melting-left"))
 )
