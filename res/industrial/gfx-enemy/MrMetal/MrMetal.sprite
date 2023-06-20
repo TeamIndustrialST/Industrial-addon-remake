@@ -28,18 +28,18 @@
 	
 	(action
 	  (name "squished-left")
-	  (hitbox 1 12 31.8 31.8)
+	  (hitbox 6 12 32 32)
 	  (images "metal-squish.png"))
 	
 	(action
 	  (name "squished-right")
-	  (hitbox 1 12 31.8 31.8)
+	  (hitbox 6 12 32 32)
 	  (mirror-action "squished-left"))
 	
 	(action
 	  (name "burning-left")
 	  (fps 10)
-	  (hitbox 9 8 32 38)
+	  (hitbox 6 12 32 32)
 	  (images "burning-0.png"
             "burning-1.png"
             "burning-2.png"
