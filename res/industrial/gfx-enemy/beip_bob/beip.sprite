@@ -1,7 +1,7 @@
 (supertux-sprite
 	(action
 	  (name "standing-left")
-	  (hitbox 9 8 32 38)
+	  (hitbox 9 10 32 38)
 	  (loops 1)
 	  (fps 20)
 	  (images
@@ -11,14 +11,14 @@
 	
 	(action
 	  (name "standing-right")
-	  (hitbox 9 8 32 38)
+	  (hitbox 9 10 32 38)
 	  (loops 1)
 	  (fps 20)
 	  (mirror-action "standing-left"))
 	
 	(action
 	  (name "charging-left")
-	  (hitbox 9 8 32 38)
+	  (hitbox 9 10 32 38)
 	  (loops 1)
 	  (fps 20)
 	  (images "beip-idle.png"
@@ -26,14 +26,14 @@
 
 	(action
 	  (name "charging-right")
-	  (hitbox 9 8 32 38)
+	  (hitbox 9 10 32 38)
 	  (loops 1)
 	  (fps 20)
 	  (mirror-action "charging-left"))
 	
 	(action
 	  (name "jumping-left")
-	  (hitbox 9 8 32 38)
+	  (hitbox 9 10 32 38)
 	  (loops 1)
 	  (fps 20)
 	  (images "beip-jumping.png"
@@ -41,35 +41,35 @@
 	
 	(action
 	  (name "jumping-right")
-	  (hitbox 9 8 32 38)
+	  (hitbox 9 10 32 38)
 	  (loops 1)
 	  (fps 20)
 	  (mirror-action "jumping-left"))
 	
     (action
 	  (name "iced-left")
-	  (hitbox 9 8 32 38)
+	  (hitbox 9 10 32 38)
 	  (images "beip-idle.png"))
 	
 	(action
 	  (name "iced-right")
-	  (hitbox 9 8 32 38)
+	  (hitbox 9 10 32 38)
 	  (mirror-action "iced-left"))
 	
 	(action
 	  (name "squished-left")
-	  (hitbox 9 8 32 38)
+	  (hitbox 9 10 32 38)
 	  (images "beip-squished.png"))
 	
 	(action
 	  (name "squished-right")
-	  (hitbox 9 8 32 38)
+	  (hitbox 9 10 32 38)
 	  (mirror-action "squished-left"))
 	
 	(action
 	  (name "burning-left")
 	  (fps 10)
-	  (hitbox 9 8 32 38)
+	  (hitbox 9 10 32 38)
 	  (images "burning-0.png"
             "burning-1.png"
             "burning-2.png"
@@ -80,6 +80,6 @@
 	(action
 	  (name "burning-right")
 	  (fps 10)
-	  (hitbox 9 8 32 38)
+	  (hitbox 9 10 32 38)
 	  (mirror-action "burning-left"))
 )
