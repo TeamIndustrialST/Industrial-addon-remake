@@ -1,27 +1,55 @@
 (supertux-sprite
-  (action
-    (name "left")
-    (hitbox 6 12 32 32)
-    (fps 11)
-    (images "metal.png"
+	 (action
+                   (name "left")
+                   (hitbox 6 12 32 32)
+                   (fps 11)
+                   (images "metal.png"
             "metal1.png"
             "metal2.png"
-            "metal3.png")
-  )
-  (action
-    (name "right")
-    (hitbox 6 12 32 32)
-	(fps 11)
-    (mirror-action "left")
-  )
-  (action
-    (name "squished-left")
-    (hitbox 1 12 31.8 31.8)
-    (images "metal-squish.png")
-  )
-  (action
-    (name "squished-right")
-    (hitbox 1 12 31.8 31.8)
-    (mirror-action "squished-left")
-  )
+            "metal3.png"
+           )
+)
+	
+	(action
+	  (name "right")
+	  (hitbox 6 12 32 32)
+	  (fps 11)
+	  (mirror-action "left"))
+	
+    (action
+	  (name "iced-left")
+	  (hitbox 6 12 32 32)
+	  (images "metal.png"))
+	
+	(action
+	  (name "iced-right")
+	  (hitbox 6 12 32 32)
+	  (mirror-action "iced-left"))
+	
+	(action
+	  (name "squished-left")
+	  (hitbox 1 12 31.8 31.8)
+	  (images "metal-squish.png"))
+	
+	(action
+	  (name "squished-right")
+	  (hitbox 1 12 31.8 31.8)
+	  (mirror-action "squished-left"))
+	
+	(action
+	  (name "burning-left")
+	  (fps 10)
+	  (hitbox 9 8 32 38)
+	  (images "burning-0.png"
+            "burning-1.png"
+            "burning-2.png"
+            "burning-3.png"
+            "burning-4.png"
+            "burning-5.png"
+            "burning-6.png"))
+	(action
+	  (name "burning-right")
+	  (fps 10)
+	  (hitbox 6 12 32 32)
+	  (mirror-action "burning-left"))
 )
