@@ -2,14 +2,16 @@
   (action
     (name "left")
     (hitbox 6 12 32 32)
-    (fps 4)
+    (fps 11)
     (images "metal.png"
-            "metal1.png")
+            "metal1.png"
+            "metal2.png"
+            "metal3.png")
   )
   (action
     (name "right")
     (hitbox 6 12 32 32)
-	(fps 4)
+	(fps 11)
     (mirror-action "left")
   )
   (action
