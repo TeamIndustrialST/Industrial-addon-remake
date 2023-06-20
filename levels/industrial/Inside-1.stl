@@ -33,6 +33,26 @@
       (x 5168)
       (y 1456)
     )
+    (mrbomb
+      (direction "left")
+      (x 5984)
+      (y 1312)
+    )
+    (mrbomb
+      (direction "left")
+      (x 9536)
+      (y 1152)
+    )
+    (mrbomb
+      (direction "left")
+      (x 6720)
+      (y 1568)
+    )
+    (mrbomb
+      (direction "left")
+      (x 1952)
+      (y 480)
+    )
     (music
       (file "/res/industrial/mus/Steampunk.music")
     )
@@ -59,12 +79,6 @@
     (smartball
       (direction "left")
       (sprite "/res/industrial/gfx-enemy/MrMetal/MrMetal.sprite")
-      (x 1952)
-      (y 480)
-    )
-    (smartball
-      (direction "left")
-      (sprite "/res/industrial/gfx-enemy/MrMetal/MrMetal.sprite")
       (x 2144)
       (y 1568)
     )
@@ -78,12 +92,6 @@
       (direction "left")
       (sprite "/res/industrial/gfx-enemy/MrMetal/MrMetal.sprite")
       (x 6944)
-      (y 1568)
-    )
-    (smartball
-      (direction "left")
-      (sprite "/res/industrial/gfx-enemy/MrMetal/MrMetal.sprite")
-      (x 6720)
       (y 1568)
     )
     (smartball
@@ -119,12 +127,6 @@
     (smartball
       (direction "left")
       (sprite "/res/industrial/gfx-enemy/MrMetal/MrMetal.sprite")
-      (x 9536)
-      (y 1152)
-    )
-    (smartball
-      (direction "left")
-      (sprite "/res/industrial/gfx-enemy/MrMetal/MrMetal.sprite")
       (x 8016)
       (y 1152)
     )
@@ -133,12 +135,6 @@
       (sprite "/res/industrial/gfx-enemy/MrMetal/MrMetal.sprite")
       (x 1312)
       (y 544)
-    )
-    (smartblock
-      (direction "left")
-      (sprite "/res/industrial/gfx-enemy/botchi/Bocce.sprite")
-      (x 5984)
-      (y 1312)
     )
     (smartblock
       (direction "left")
