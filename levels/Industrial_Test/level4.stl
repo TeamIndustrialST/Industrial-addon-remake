@@ -2,7 +2,10 @@
   (version 3)
   (name (_ "background test"))
   (author "Joe")
+  (note "the new 16 bit level")
+  (contact "vnbhccvbbbbbbbbcvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvv")
   (license "CC-BY-SA 4.0 International")
+  (target-time 1)
   (icon "")
   (icon-locked "")
   (sector
@@ -18,26 +21,77 @@
       (image-bottom "/res/industrial/gfx-bg/factory_inside_bg_outer.png")
     )
     (background
-      (scroll-offset-x 528)
-      (scroll-offset-y 1008)
-      (color 0.5378128 0.5378129 0.5378128)
-      (speed 0.1)
-      (image "/res/industrial/gfx-bg/factory_inside_bg_furthest.png")
-      (z-pos -301)
-    )
-    (background
       (scroll-offset-x 768)
       (scroll-offset-y 224)
       (color 1 1 1)
-      (speed 0.5)
-      (image "/res/industrial/gfx-surface/grid.surface")
-      (z-pos 300)
+      (alignment "top")
+      (speed 0.1)
+      (image "/res/industrial/gfx-bg/factory_outside2.png")
+      (z-pos -302)
+    )
+    (background
+      (scroll-offset-x 2608)
+      (scroll-offset-y 736)
+      (color 1 1 1)
+      (scroll-speed-x 50)
+      (speed 0.05)
+      (speed-y 0.06)
+      (image "/images/background/misc/fog.png")
+      (z-pos -303)
     )
     (camera
       (name "Camera")
       (mode "normal")
     )
+    (gradient
+      (top_color 0.3 0.2 0.2 0.9)
+      (bottom_color 0.6 0.6 0.6)
+      (z-pos -304)
+    )
+    (leveltime
+      (time 690)
+    )
     (music
+    )
+    (particles-clouds
+      (intensity 99999)
+    )
+    (particles-ghosts
+    )
+    (particles-rain
+      (intensity 5)
+      (angle 88)
+      (speed 99)
+    )
+    (particles-snow
+    )
+    (particles-snow
+    )
+    (particles-snow
+    )
+    (particles-snow
+    )
+    (particles-snow
+    )
+    (particles-snow
+    )
+    (particles-snow
+    )
+    (particles-snow
+    )
+    (particles-snow
+    )
+    (particles-snow
+    )
+    (particles-snow
+    )
+    (particles-snow
+    )
+    (particles-snow
+    )
+    (particles-snow
+    )
+    (particles-snow
     )
     (spawnpoint
       (name "main")
@@ -157,8 +211,8 @@
       0 0 0 0 0 0 0 0 0 0 0 0 0 0 5148 5149 3170 3170 5146 5147 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 5160 5160 0 0 5160 0 5160 5160 0 0 5160 0 5160 5160 0 0 0 5160 5160 0 0 0 5160 5160 0 0 5160 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
       0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 5148 5149 3170 3170 5146 5147 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 5160 5160 5160 5160 0 0 5160 5160 0 0 5160 0 5160 5160 5160 5160 0 5160 5160 5160 5160 0 0 5160 5160 5160 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
       0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 5148 5149 3170 3170 5146 5147 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
-      0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 5148 5149 3170 3170 3185 3186 3185 3186 3185 3186 3185 3186 3185 3186 0 0 0 0 5161 5161 5161 5161 5161 5161 5161 5161 5161 5161 5161 5161 5161 5161 5161 5161 5161 5161 5161 5161 5161 5161 5161 5161 5161 5161 5161 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
-      0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 5148 5149 3191 3192 3191 3192 3191 3192 3191 3192 3191 3192 0 0 0 0 5161 5161 5161 5161 5161 5161 5161 5161 5161 5161 5161 5161 5161 5161 5161 5161 5161 5161 5161 5161 5161 5161 5161 5161 5161 5161 5161 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+      0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 5148 5149 3170 3170 3185 3186 3185 3186 3185 3186 3185 3186 3185 3186 5120 5120 5120 5120 5161 5161 5161 5161 5161 5161 5161 5161 5161 5161 5161 5161 5161 5161 5161 5161 5161 5161 5161 5161 5161 5161 5161 5161 5161 5161 5161 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+      0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 5148 5149 3191 3192 3191 3192 3191 3192 3191 3192 3191 3192 5120 5120 5120 5120 5161 5161 5161 5161 5161 5161 5161 5161 5161 5161 5161 5161 5161 5161 5161 5161 5161 5161 5161 5161 5161 5161 5161 5161 5161 5161 5161 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
       0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
       0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
       0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0

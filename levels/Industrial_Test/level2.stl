@@ -79,6 +79,10 @@
       (x 2080)
       (y 448)
     )
+    (firefly
+      (x 3904)
+      (y 448)
+    )
     (gradient
       (blend "none")
       (top_color 0.5211526 0.5211526 0.5211524)
