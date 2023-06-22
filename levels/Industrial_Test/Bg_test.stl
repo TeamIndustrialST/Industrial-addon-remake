@@ -1,6 +1,6 @@
 (supertux-level
   (version 3)
-  (name (_ "how to give a level an illuson"))
+  (name (_ "3D Background Test"))
   (author "RodirodDude")
   (note "This level is to show how you can make a level look like tux would be running around an circle area")
   (license "CC-BY-SA 4.0 International")
