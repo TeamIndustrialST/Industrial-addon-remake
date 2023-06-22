@@ -1,5 +1,5 @@
 (supertux-music
   (file "Outside_map.ogg")
   (loop-begin 4.800)
-  (loop-at    80.600)
+  (loop-at    81.600)
 )
