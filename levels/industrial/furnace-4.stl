@@ -204,17 +204,20 @@
     )
     (sspiky
       (direction "left")
+      (sprite "/res/industrial/gfx-enemy/Rollspike/sleepingRollspike.sprite")
       (x 4192)
       (y 768)
     )
     (sspiky
       (direction "left")
+      (sprite "/res/industrial/gfx-enemy/Rollspike/sleepingRollspike.sprite")
       (x 5312)
       (y 416)
     )
     (sspiky
       (direction "left")
-      (x 8208)
+      (sprite "/res/industrial/gfx-enemy/Rollspike/sleepingRollspike.sprite")
+      (x 8224)
       (y 416)
     )
     (tilemap
@@ -615,6 +618,7 @@
     )
     (sspiky
       (direction "left")
+      (sprite "/res/industrial/gfx-enemy/Rollspike/sleepingRollspike.sprite")
       (x 752)
       (y 576)
     )
