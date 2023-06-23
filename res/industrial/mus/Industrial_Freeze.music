@@ -1,0 +1,5 @@
+(supertux-music
+  (file "Industrial_Freeze.ogg")
+  (loop-begin 12.000)
+  (loop-at    122.000)
+)
