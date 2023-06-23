@@ -1,0 +1,55 @@
+(supertux-sprite
+  (action
+    (name "swim-left")
+    (hitbox 8 10 138 92)
+    (fps 12)
+    (images "swim_shart.png"
+))
+
+  (action
+    (name "swim-right")
+    (hitbox 10 10 138 92)
+    (fps 12)
+    (mirror-action "swim-left"))
+
+  (action
+    (name "notice-left")
+    (hitbox 8 10 138 92)
+    (loops 1)
+    (fps 12)
+    (images "notice_shart.png"
+            "notice_shart.png"
+            "notice_shart.png"
+            "notice_shart.png"))
+
+  (action
+    (name "notice-right")
+    (hitbox 10 10 138 92)
+    (loops 1)
+    (fps 12)
+    (mirror-action "notice-left"))
+
+  (action
+    (name "chase-left")
+    (hitbox 5 10 138 92)
+    (fps 20)
+    (images "chase_shart.png"
+))
+
+  (action
+    (name "chase-right")
+    (hitbox 10 10 138 92)
+    (fps 20)
+    (mirror-action "chase-left"))
+
+  (action
+    (name "iced-left")
+    (hitbox 0 0 138 92)
+    (images "swim_green-0.png"))
+
+  (action
+    (name "iced-right")
+    (hitbox 0 0 138 92)
+    (mirror-action "iced-left"))
+
+)
