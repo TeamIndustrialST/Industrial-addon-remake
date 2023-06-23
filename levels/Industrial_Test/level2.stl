@@ -3,8 +3,6 @@
   (name (_ "On off test"))
   (author "Your mom")
   (license "CC-BY-SA 4.0 International")
-  (icon "")
-  (icon-locked "")
   (sector
     (name "main")
     (init-script "import(\"/res/industrial/scripts/switch_timer.nut\") //imports switch blocks")
@@ -57,7 +55,6 @@
     )
     (dispenser
       (cycle 0.01)
-      (type "dropper")
       (badguy "mriceblock")
       (direction "left")
       (limit-dispensed-badguys #t)
@@ -67,14 +64,12 @@
     )
     (door
       (sector "main")
-      (locked #f)
       (spawnpoint "Door1")
       (x 3616)
       (y 352)
     )
     (door
       (sector "main")
-      (locked #f)
       (spawnpoint "Door2")
       (x 2080)
       (y 448)
@@ -108,7 +103,6 @@
     )
     (pushbutton
       (script "start_timer()")
-      (upside-down #f)
       (x 4832)
       (y 400)
     )
