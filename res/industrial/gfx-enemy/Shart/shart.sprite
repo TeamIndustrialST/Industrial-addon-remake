@@ -51,5 +51,23 @@
     (name "iced-right")
     (hitbox 0 0 138 92)
     (mirror-action "iced-left"))
-
+(action
+    (hitbox 10 10 138 92)
+    (name "burning-left")
+    (fps 15)
+    (images 
+      "fire_shart.png"
+      "fire_shart.png"
+      "fire_shart.png"
+      "fire_shart.png"
+      "fire_shart.png"
+      "fire_shart.png"
+    )
+ )
+  (action
+    (hitbox 0 62 84.8 84.8)
+    (fps 15)
+    (name "burning-right")
+    (mirror-action "burning-left")
+  )
 )
