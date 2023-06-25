@@ -14,7 +14,7 @@
     (background
       (scroll-offset-y 11)
       (color 0.4284051 0.4284047 0.4284047)
-      (speed -0.3)
+      (speed -0.2)
       (speed-y 0.1)
       (image-top "/res/industrial/gfx-bg/factory_inside_bg_outer.png")
       (image "/res/industrial/gfx-bg/factory_inside_bg_middle.png")
@@ -103,7 +103,7 @@
         (offset_y 0)
       )
       (solid #f)
-      (speed-x -0.2)
+      (speed-x -0.15)
       (speed-y 0.2)
       (tint 0.4034296 0.4034293 0.4034294)
       (z-pos -250)
