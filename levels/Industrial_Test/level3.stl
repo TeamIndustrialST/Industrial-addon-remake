@@ -52,6 +52,39 @@
       (bottom_color 1 1 1)
       (z-pos -301)
     )
+    (hurting_platform
+      (handle
+        (scale_x 0)
+        (scale_y 0)
+        (offset_x 0)
+        (offset_y 0)
+      )
+      (running #f)
+      (path-ref "gen16879061581495669940448")
+      (sprite "/images/objects/sawblade/bigball1.png")
+    )
+    (hurting_platform
+      (handle
+        (scale_x 0)
+        (scale_y 0)
+        (offset_x 0)
+        (offset_y 0)
+      )
+      (running #f)
+      (path-ref "gen16879064922253725813632")
+      (sprite "/res/industrial/gfx-obj/shock/shock.sprite")
+    )
+    (hurting_platform
+      (handle
+        (scale_x 0)
+        (scale_y 0)
+        (offset_x 0)
+        (offset_y 0)
+      )
+      (running #f)
+      (path-ref "gen16879071602684264660352")
+      (sprite "/images/objects/sawblade/thunder.sprite")
+    )
     (infoblock
       (sprite "/images/objects/eat-me/platter.png")
       (message (_ "this background  looks like a 
@@ -76,6 +109,39 @@ airship  backgrounnd"))
     )
     (music
       (file "/res/industrial/mus/old/factory_sewers.music")
+    )
+    (path
+      (name "gen16879061581495669940448")
+      (path
+        (mode "oneshot")
+        (adapt_speed #f)
+        (node
+          (x 832)
+          (y 416)
+        )
+      )
+    )
+    (path
+      (name "gen16879064922253725813632")
+      (path
+        (mode "oneshot")
+        (adapt_speed #f)
+        (node
+          (x 672)
+          (y 320)
+        )
+      )
+    )
+    (path
+      (name "gen16879071602684264660352")
+      (path
+        (mode "oneshot")
+        (adapt_speed #f)
+        (node
+          (x 736)
+          (y 320)
+        )
+      )
     )
     (skullyhop
       (direction "left")
