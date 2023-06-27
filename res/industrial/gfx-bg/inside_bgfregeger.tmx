@@ -7,7 +7,7 @@
   <image source="../gfx-tiles/terrtttrertetrerettreert.png" width="128" height="128"/>
  </tileset>
  <tileset firstgid="81" name="orange_is_a_furry" tilewidth="32" tileheight="32" tilecount="4" columns="2">
-  <image source="../gfx-tiles/orange_is_a_furry.png" width="64" height="64"/>
+  <image source="../gfx-tiles/frost_is_a_furry.png" width="64" height="64"/>
  </tileset>
  <layer id="3" name="Tile Layer 1" width="34" height="34" tintcolor="#666666">
   <data encoding="csv"/>
