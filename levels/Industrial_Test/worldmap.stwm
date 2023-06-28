@@ -175,5 +175,5 @@
       (y 4)
     )
   )
-  (tileset "images/ice_world.strf")
+  (tileset "/res/industrial/gfx-tiles/industrial_world.strf")
 )

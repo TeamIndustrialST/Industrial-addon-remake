@@ -26,3 +26,4 @@ addons
 
 # Do not upload .stl~ files at all.
 **/*.stl~
+*.stwm~
