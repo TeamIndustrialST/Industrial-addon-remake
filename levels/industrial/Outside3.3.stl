@@ -3,7 +3,7 @@
   (name (_ "Crush rush"))
   (author "FrostC")
   (license "CC-BY-SA 4.0 International")
-  (target-time 55)
+  (target-time 60)
   (icon "")
   (icon-locked "")
   (sector
