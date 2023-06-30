@@ -15,14 +15,8 @@
 ;;    src/tile.cpp, unisolid is 3 not 2
 
 (supertux-tiles
-  (autotileset
-    (source "autotiles.satc")
-  )
- 
-   ;; next-id: 5167
-  
-  ;; free/skipped ids (please use before any other): none
-  ;; Tile ids: 4225(4264) - 4292 (!reserved for crystal cave!)
+
+   ;; next-id: 5245
 
  (tilegroup
     (offset 20000)
@@ -307,8 +301,8 @@
     )
     (images "frost_is_a_furry.png")
   )
+  
 
-  ; VANKATER TANK U SO MUCH
   (import-tileset
       (file "/images/tiles.strf")
   )
