@@ -19,6 +19,17 @@
 )
 
 (tilegroup
+	(name (_ "Industrial Paths"))
+	(tiles
+		686 687 688 689
+		690 691 692 693
+		694 695 696 697
+		698 699 700 701
+		702 703 704 705
+	)
+)
+
+(tilegroup
     (name (_ "Lightmap"))
     (tiles
 	  2032 2033 2034 2035
@@ -95,6 +106,25 @@
     )
     (images "../../../images/tiles/lightmap/lightmap-black.png")
   )
+
+  (tiles
+	(width 4)(height 5)
+	(images "worldmap/industrial-roads.png")
+	(ids
+		686 687 688 689
+		690 691 692 693
+		694 695 696 697
+		698 699 700 701
+		702 703 704 705
+	)
+	(datas
+		 6 10 23 30
+		 5  9 29 27
+		20 18 12  3
+		17 24 31  0
+		20 18 17 24
+	)
+)
 
 ;===============RETRO COMPATIBIBITY===============
 
