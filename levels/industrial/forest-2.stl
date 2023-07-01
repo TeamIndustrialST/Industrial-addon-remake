@@ -1,6 +1,6 @@
 (supertux-level
   (version 3)
-  (name (_ "Mystic bridge"))
+  (name (_ "Mystic Bridge"))
   (author "tbd")
   (license "CC-BY-SA 4.0 International")
   (icon "")

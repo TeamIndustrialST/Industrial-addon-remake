@@ -1,6 +1,6 @@
 (supertux-level
   (version 3)
-  (name (_ "Off the beaten path"))
+  (name (_ "Off The Beaten Path"))
   (author "FrostC")
   (license "CC-BY-SA 4.0 International")
   (target-time 52)
@@ -144,14 +144,6 @@
       (name "main")
       (x 384)
       (y 1280)
-    )
-    (spawnpoint
-      (x 1504)
-      (y 416)
-    )
-    (spawnpoint
-      (x 4832)
-      (y 672)
     )
     (tilemap
       (solid #t)
