@@ -1,6 +1,6 @@
 (supertux-level
   (version 3)
-  (name (_ "Welcome To The Industry!"))
+  (name (_ "Welcome to the Industry!"))
   (author "FrostC")
   (license "CC-BY-SA 4.0 International")
   (target-time 32)
