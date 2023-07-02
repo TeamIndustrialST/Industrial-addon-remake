@@ -10,11 +10,6 @@
     (ambient-light
       (color 1 1 1)
     )
-    (background
-      (color 1 1 1)
-      (speed 0.5)
-      (image "images/background/antarctic/arctis2.png")
-    )
     (bumper
       (x 3072)
       (y 2336)
@@ -72,24 +67,13 @@
       (x 8160)
       (y 672)
     )
-    (dispenser
-      (sprite "images/creatures/dispenser/invisible.sprite")
-      (cycle 5)
-      (type "point")
-      (badguy "mole")
-      (direction "left")
-      (limit-dispensed-badguys #t)
-      (max-concurrent-badguys 1)
-      (x 704)
-      (y 2832)
-    )
     (firefly
       (x 8800)
       (y 416)
     )
     (gradient
-      (top_color 0.3 0.4 0.75)
-      (bottom_color 1 1 1)
+      (top_color 0 0 0)
+      (bottom_color 0.1 0.1 0.4)
       (z-pos -301)
     )
     (hurting_platform
@@ -221,7 +205,7 @@
         (node
           (x 2624)
           (y 2208)
-          (time 0.06400001)
+          (time 0.06400003)
           (speed 500)
         )
         (node
@@ -233,7 +217,7 @@
         (node
           (x 2592)
           (y 2336)
-          (time 3.447065e-05)
+          (time 3.785281e-05)
           (speed 500)
         )
         (node
