@@ -1,0 +1,5 @@
+(supertux-music
+  (file "Pyrophobia.ogg")
+  (loop-begin 0.000)
+  (loop-at    221.000)
+)
