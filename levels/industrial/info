@@ -1,7 +1,7 @@
 (supertux-level-subset
   (title (_ "Industrial Island"))
   (description (_ ""))
-  (levelset #t)
+  (levelset #f)
   (contrib-type "user")
   (hide-from-contribs #f)
 )

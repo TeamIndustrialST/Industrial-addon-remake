@@ -16,6 +16,22 @@
 	(action (name "falling-left")
 		(hitbox 4 10 32 32)
 		(images "flat-left.png"))
+	
+	(action
+		(name "waking-left")
+	  	(hitbox 4 10 32 32)
+	 (images  "wake-1.png"
+		  "wake-1.png"
+		  "wake-2.png"
+		  "wake-3.png"
+		  "wake-3.png"
+		  "wake-3.png"
+		  "wake-3.png"
+		  "wake-3.png"))
+
+	(action (name "waking-right")
+		(hitbox 4 10 32 32)
+		(mirror-action "falling-left"))
 
 	(action (name "falling-right")
 		(hitbox 4 10 32 32)
@@ -27,4 +43,5 @@
 
 	(action (name "flat-right")
 		(hitbox 4 10 32 32)
-		(mirror-action "falling-left")))
+		(mirror-action "falling-left"))
+)
